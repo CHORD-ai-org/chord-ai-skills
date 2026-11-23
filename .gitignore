@@ -1,0 +1,48 @@
+# chord-ai-skills — tooling scratch, build output, local secrets
+
+# --- Tooling / agent scratch ---
+.trae/
+.workbuddy/
+.uploads/
+.cache/
+.tmp/
+node_modules/
+.thumbnails/
+.hyperframes/
+
+# --- Python (validators, scripts, virtualenvs) ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# --- Environment / secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Logs ---
+*.log
+
+# --- Build output ---
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
