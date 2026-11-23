@@ -1,9 +1,13 @@
 
 下面这段话摘自ceaserzhao在2026.11.23写的日记
 
+在初始化项目之前请查看CHORD的官网：
+[https://chord-ai-org.github.io/]
+
 ==CHORD Skill==
 我要为CHORD AI ORG 开发，整理一套世界上最能胜任复杂任务的Skills，
 这是我对大类别的一些规划：
+
 1.元认知和方法论层面（可以引用我之前做的Fundamental，我今天也重新开始了Fundamental
 的开发工作）
 
