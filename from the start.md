@@ -5,6 +5,7 @@
 [https://chord-ai-org.github.io/]
 
 ==CHORD Skill==
+
 我要为CHORD AI ORG 开发，整理一套世界上最能胜任复杂任务的Skills，
 这是我对大类别的一些规划：
 
