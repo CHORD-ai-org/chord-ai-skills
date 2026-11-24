@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cr
 
 # Capital Analyzing Credit Facility Amendments
 
+## Brief info
+
+Evaluates amendment and waiver requests with consent requirements, fee structures, and modified term impact analysis. Use when analyzing amendments, structuring consent solicitations, or evaluating covenant relief requests. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
