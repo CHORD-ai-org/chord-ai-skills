@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a combined Audit and Compensation Committee charter for U.S. boards, tailored for public or private companies with listing-standard compliance, independence criteria, and SOX readiness. Triggers when the user needs a board committee charter, audit committee charter, compensation committee charter, or governance mandate for SEC/NYSE/NASDAQ compliance.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a combined Audit and Compensation Committee charter for U.S. boards, tailored for public or private companies with listing-standard compliance, independence criteria, and SOX readiness. Triggers when the user need
+2. Start with the upstream step: Company status (public / private / pre-IPO) and exchange (NYSE, NASDAQ, OTC, none).
+3. Continue with: State of incorporation and governance statute constraints (e.g., DGCL 141(c) [VERIFY]).
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/audit-compensation-committee-charter
 
 ## Verify
 
