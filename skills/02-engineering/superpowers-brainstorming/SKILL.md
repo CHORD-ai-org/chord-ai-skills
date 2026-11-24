@@ -12,6 +12,11 @@ source: https://github.com/obra/superpowers/tree/main/skills/brainstorming
 
 # Superpowers Brainstorming
 
+## Brief info
+
+Draw out what the user actually wants and why before building, then hand off to a written implementation plan. Input: task or request that matches the upstream skill. Output: procedure and checkable result. Caveat: the skill is used outside its trigger or the source is not cited.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
