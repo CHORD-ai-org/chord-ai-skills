@@ -33,7 +33,7 @@ Use when the task matches this source: ISO 42001 AI readiness check. Use before 
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/aims-audit
+Field: compliance-os. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/aims-audit
 
 ## Verify
 
