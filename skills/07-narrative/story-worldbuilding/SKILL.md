@@ -12,6 +12,11 @@ source: https://github.com/danjdewhurst/story-skills/tree/main/skills/worldbuild
 
 # Story Worldbuilding
 
+## Brief info
+
+Create and manage locations, systems, factions, artifacts, routes, and glossary terms for a story project. Input: task or request that matches the upstream skill. Output: procedure and checkable result. Caveat: the skill is used outside its trigger or the source is not cited.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
