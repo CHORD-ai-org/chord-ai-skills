@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/amicus-brief
 
 # Legal Amicus Brief
 
+## Brief info
+
+Drafts and analyzes U.S. appellate amicus curiae briefs for non-parties with Rule 29/Rule 37 compliance, unique perspective development, and Bluebook-ready citations. Use when asked to draft or review an amicus brief, friend-of-the-court brief, non-party brief, or anything involving FRAP 29, Supreme Court Rule 37, or appellate amicus practice. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
