@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cr
 
 # Capital Analyzing Cross Border Insolvency
 
+## Brief info
+
+Evaluates multi-jurisdictional restructuring with Chapter 15 recognition, COMI analysis, and parallel proceeding coordination. Use when analyzing cross-border insolvency, assessing jurisdiction selection, or coordinating multi-country restructurings. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
