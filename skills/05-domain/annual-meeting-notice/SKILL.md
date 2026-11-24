@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts legally compliant Notice of Annual Shareholders Meeting for US corporations, covering state-specific notice periods, record dates, quorum and voting thresholds, proxy procedures, and SEC Regulation 14A compliance for public companies. Use when preparing annual meeting notices, shareholder meeting notifications, or proxy notice and access mailings.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts legally compliant Notice of Annual Shareholders Meeting for US corporations, covering state-specific notice periods, record dates, quorum and voting thresholds, proxy procedures, and SEC Regulation 14A compliance 
+2. Start with the upstream step: Corporate documents — articles of incorporation, current bylaws, prior meeting notices
+3. Continue with: State of incorporation — determines applicable business corporation act and notice periods
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/annual-meeting-notice
 
 ## Verify
 
