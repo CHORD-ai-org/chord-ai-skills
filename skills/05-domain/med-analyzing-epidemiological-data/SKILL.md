@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/analyzing-epidem
 
 # Med Analyzing Epidemiological Data
 
+## Brief info
+
+Structures epidemiologic analysis with incidence, prevalence, rate calculations, and statistical inference. Use when calculating disease rates, analyzing epi data, or interpreting population statistics. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
