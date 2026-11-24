@@ -1,0 +1,42 @@
+---
+name: capital-analyzing-dark-pool-and-alternative-venues
+description: "Evaluates alternative trading systems with fill rate analysis, information leakage assessment, and venue toxicity measurement. Use when analyzing dark pools, evaluating ATS venues, or assessing execution venue quality."
+category: 05-domain
+status: referenced
+inputs: a domain question, document, or decision to review
+outputs: structured expert-field review with caveats
+fails_when: output gives professional advice without human expert review
+verify: python scripts/check_skills.py skills/05-domain/capital-analyzing-dark-pool-and-alternative-venues
+source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-dark-pool-and-alternative-venues
+---
+
+# Capital Analyzing Dark Pool And Alternative Venues
+
+Pointer skill. Keep upstream files outside this repository.
+
+## Trigger
+
+Use when the task matches this source: Evaluates alternative trading systems with fill rate analysis, information leakage assessment, and venue toxicity measurement. Use when analyzing dark pools, evaluating ATS venues, or assessing execution venue quality.
+
+## Steps
+
+1. Confirm the task matches this source: Evaluates alternative trading systems with fill rate analysis, information leakage assessment, and venue toxicity measurement. Use when analyzing dark pools, evaluating ATS venues, or assessing execution venue quality.
+2. Start with the upstream step: Comparing execution quality across dark pools and ATS venues for order routing decisions
+3. Continue with: Investigating information leakage or adverse selection on a specific venue
+4. Record the result with caveats and human expert review.
+
+## Hard rules
+
+- Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
+- Do not copy upstream scripts or reference files into this repository.
+- State the upstream source when using the skill.
+
+## Source notes
+
+Field: capital. Upstream: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-dark-pool-and-alternative-venues
+
+## Verify
+
+```bash
+python scripts/check_skills.py skills/05-domain/capital-analyzing-dark-pool-and-alternative-venues
+```
