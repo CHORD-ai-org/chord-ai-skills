@@ -14,3 +14,5 @@ Candidate repositories. Move a row into a category README only after license and
 | [trailofbits/skills](https://github.com/trailofbits/skills) | 02, 05 | CC-BY-SA-4.0 | plugin | yes | unknown | unknown | license flag | legal check before reuse |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | all | index only | — | — | — | unknown | index | use for discovery |
 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | all | index only | — | — | — | unknown | index | use for discovery |
+| [casemark/skills](https://github.com/casemark/skills) | 05 | Apache 2.0 | copy skill folder | unknown | no | unknown | verified | triage 2091 expert skills |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 02, 05 | MIT | `npx skills add alirezarezvani/claude-skills` | yes | unknown | unknown | verified | triage 501 skills |
