@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Business operations and the upstream skill matches the request.
+Use when the task matches this source: Route internal operations requests to the right BizOps skill: process, vendors, capacity, internal comms, SOPs, procurement. Use whenever the user asks where the bottleneck is or about vendor health.
+
+## Steps
+
+1. Confirm the task matches this source: Route internal operations requests to the right BizOps skill: process, vendors, capacity, internal comms, SOPs, procurement. Use whenever the user asks where the bottleneck is or about vendor health.
+2. Start with the upstream step: Does the user's working directory already contain a process map, vendor catalog, SOP, or org chart we can grep?
+3. Continue with: Does the inquiry already disambiguate the lane (e.g., "vendor SLA review" — that's vendor-management, no question needed)?
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/business-operations-skills
 
 ## Verify
 
