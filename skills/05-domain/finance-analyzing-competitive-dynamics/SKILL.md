@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-co
 
 # Finance Analyzing Competitive Dynamics
 
+## Brief info
+
+Maps competitive landscapes with market share tracking and Porter's Five Forces analysis. Use when analyzing competition, assessing market structure, or evaluating competitive threats. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
