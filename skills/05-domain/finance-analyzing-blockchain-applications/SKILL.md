@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-bl
 
 # Finance Analyzing Blockchain Applications
 
+## Brief info
+
+Evaluates blockchain use cases in financial services with DLT assessment and implementation feasibility. Use when analyzing blockchain applications, evaluating DLT solutions, or assessing crypto infrastructure. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
