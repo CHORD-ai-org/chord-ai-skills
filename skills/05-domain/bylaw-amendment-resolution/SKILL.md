@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a formal Bylaw Amendment Resolution for U.S. corporations, LLCs, or non-profits. Invoke when a board, shareholders, or members approve bylaw changes and need an auditable WHEREAS/RESOLVED record with amendment text, vote tallies, effective date, and secretary certification for minute books, bank submissions, or state filings.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a formal Bylaw Amendment Resolution for U.S. corporations, LLCs, or non-profits. Invoke when a board, shareholders, or members approve bylaw changes and need an auditable WHEREAS/RESOLVED record with amendment tex
+2. Start with the upstream step: Entity info — legal name (per formation docs), jurisdiction, entity type (corp/LLC/non-profit)
+3. Continue with: Current bylaws — adoption or last-amendment date, article/section numbers being amended
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/bylaw-amendment-resolution
 
 ## Verify
 
