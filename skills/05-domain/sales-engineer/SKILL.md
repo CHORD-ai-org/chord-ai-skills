@@ -33,7 +33,7 @@ Use when the task matches this source: Use for pre-sales work: RFP coverage gaps
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/sales-engineer
+Field: business-growth. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/sales-engineer
 
 ## Verify
 
