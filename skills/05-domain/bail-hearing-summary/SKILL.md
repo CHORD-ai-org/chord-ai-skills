@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Generates structured bail hearing summaries from transcripts and case documents, extracting charges, arguments, conditions, and rulings. Use when summarizing bail hearings, pretrial detention decisions, bond hearings, or release condition orders.
+
+## Steps
+
+1. Confirm the task matches this source: Generates structured bail hearing summaries from transcripts and case documents, extracting charges, arguments, conditions, and rulings. Use when summarizing bail hearings, pretrial detention decisions, bond hearings, or
+2. Start with the upstream step: Charging documents — complaint, indictment, or information with statute citations
+3. Continue with: Hearing transcript or recording
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/bail-hearing-summary
 
 ## Verify
 
