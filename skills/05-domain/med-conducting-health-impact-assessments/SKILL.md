@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-healt
 
 # Med Conducting Health Impact Assessments
 
+## Brief info
+
+Structures health impact assessment with exposure evaluation and risk characterization. Use when assessing health impacts, evaluating environmental exposures, or characterizing population risk. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
