@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-ca
 
 # Finance Analyzing Cap Rates
 
+## Brief info
+
+Structures capitalization rate analysis with market comparison, risk premium decomposition, and trend assessment. Use when analyzing cap rates, comparing market yields, or assessing pricing trends. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
