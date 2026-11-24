@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/annual-meeting
 
 # Legal Annual Meeting Notice
 
+## Brief info
+
+Drafts legally compliant Notice of Annual Shareholders Meeting for US corporations, covering state-specific notice periods, record dates, quorum and voting thresholds, proxy procedures, and SEC Regulation 14A compliance for public companies. Use when preparing annual meeting notices, shareholder meeting notifications, or proxy notice and access mailings. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
