@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-co
 
 # Finance Analyzing Covenant Compliance
 
+## Brief info
+
+Reviews financial covenant compliance calculations with cure provisions and default trigger analysis. Use when checking covenant compliance, calculating coverage ratios, or evaluating covenant headroom. Takes stressed-case and surveillance reviews of headroom, cure rights and default triggers for a lender, investor or trading view; the borrower's periodic compliance certificate goes to managing-debt-covenant-compliance. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
