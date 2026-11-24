@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Compliance and the upstream skill matches the request.
+Use when the task matches this source: Use for /compliance-os:gdpr-audit-prep, or before a GDPR review, post-breach audit or DPA investigation.
+
+## Steps
+
+1. Confirm the task matches this source: Use for /compliance-os:gdpr-audit-prep, or before a GDPR review, post-breach audit or DPA investigation.
+2. Start with the upstream step: Before annual internal GDPR audit
+3. Continue with: Before quarterly Article 30 RoPA refresh
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/gdpr-audit-prep
 
 ## Verify
 
