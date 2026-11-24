@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-ca
 
 # Capital Analyzing Capital Structure Optimization
 
+## Brief info
+
+Evaluates optimal leverage with WACC minimization, rating impact, and financial flexibility assessment across market conditions. Use when optimizing capital structure, analyzing target leverage, or evaluating rating implications. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
