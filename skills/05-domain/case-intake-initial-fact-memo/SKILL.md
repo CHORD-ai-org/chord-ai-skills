@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Generates a structured attorney work product memorandum from an initial client consultation for commercial litigation. Extracts verifiable facts from uploaded documents, builds a chronological narrative, identifies parties and contracts, flags preliminary legal claims and defenses, and produces a prioritized action plan. Triggers at matter intake when a business client needs a foundational case evaluation document for a pre-filing commercial dispute.
+
+## Steps
+
+1. Confirm the task matches this source: Generates a structured attorney work product memorandum from an initial client consultation for commercial litigation. Extracts verifiable facts from uploaded documents, builds a chronological narrative, identifies parti
+2. Start with the upstream step: Collect client intake info, key contracts, correspondence, financial records, and conflicts check results
+3. Continue with: Generate the memo using the section structure below
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/case-intake-initial-fact-memo
 
 ## Verify
 
