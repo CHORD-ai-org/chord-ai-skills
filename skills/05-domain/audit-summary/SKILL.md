@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Produces structured U.S. legal audit summaries that distill compliance findings into executive-ready risk prioritization and remediation plans, covering likelihood/impact scoring, consequence analysis, and corrective actions with timelines and owners. Use for legal audits, compliance audits, regulatory audits, compliance gap analyses, risk assessments, audit report summaries, or remediation roadmaps. Trigger keywords: audit summary, compliance findings, audit report, risk prioritization, remediation plan, regulatory exposure, corrective action plan.
+
+## Steps
+
+1. Confirm the task matches this source: Produces structured U.S. legal audit summaries that distill compliance findings into executive-ready risk prioritization and remediation plans, covering likelihood/impact scoring, consequence analysis, and corrective act
+2. Start with the upstream step: Complete audit materials: reports, checklists, evidence, interviews, exhibits.
+3. Continue with: Jurisdictional scope and governing authorities per audit domain.
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/audit-summary
 
 ## Verify
 
