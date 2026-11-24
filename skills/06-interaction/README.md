@@ -8,6 +8,6 @@ Source: diary entry 2026-11-23, category 6.
 
 | Skill | Status | Purpose | Source |
 | --- | --- | --- | --- |
-| TBD | — | — | — |
+| [grill-me](grill-me/SKILL.md) | blocked | One question at a time; waits for Thylas session state | [from the start.md](<../../from the start.md>) |
 
 To add: create `<skill-id>/SKILL.md`. See [root README](../../README.md) for fields.
