@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-ai
 
 # Finance Analyzing Ai In Financial Services
 
+## Brief info
+
+Evaluates AI/ML applications in financial services with model governance, bias assessment, and regulatory considerations. Use when analyzing AI in finance, evaluating ML models, or assessing AI governance. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
