@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts Rule 23-compliant class action notices to absent class members for certification or settlement. Agent uses this skill when drafting class action notices, class member notifications, settlement notices, opt-out notices, or fairness hearing notices.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts Rule 23-compliant class action notices to absent class members for certification or settlement. Agent uses this skill when drafting class action notices, class member notifications, settlement notices, opt-out not
+2. Start with the upstream step: Complaint — factual allegations, legal claims, named parties
+3. Continue with: Class certification order — exact class definition, court-specified notice requirements
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/class-action-notice
 
 ## Verify
 
