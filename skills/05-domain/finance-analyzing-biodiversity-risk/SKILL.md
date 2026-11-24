@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-bi
 
 # Finance Analyzing Biodiversity Risk
 
+## Brief info
+
+Structures biodiversity risk assessment with nature-related dependency mapping and TNFD alignment. Use when analyzing biodiversity risk, mapping nature dependencies, or implementing TNFD disclosure. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
