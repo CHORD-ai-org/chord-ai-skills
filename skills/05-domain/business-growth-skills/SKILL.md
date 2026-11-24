@@ -33,7 +33,7 @@ Use when the task matches this source: Use when a growth request needs routing b
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/business-growth-skills
+Field: business-growth. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/business-growth-skills
 
 ## Verify
 
