@@ -1,6 +1,6 @@
 ---
 name: legal-api-constraints-exhibit
-description: ">-"
+description: "Extracts technical API constraints from OpenAPI/Swagger specs and developer docs into a contract-ready API Access & Constraints Schedule with source traceability, risk flags, and change-control language. Use when drafting legal exhibits or schedules covering API access scope, rate limits, authentication, data fields, or deprecation terms for MSAs, SOWs, or order forms."
 category: 05-domain
 status: referenced
 inputs: a domain question, document, or decision to review
@@ -14,18 +14,18 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/api-constraint
 
 ## Brief info
 
->- Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+Extracts technical API constraints from OpenAPI/Swagger specs and developer docs into a contract-ready API Access & Constraints Schedule with source traceability, risk flags, and change-control language. Use when drafting legal exhibits or schedules covering API access scope, rate limits, authentication, data fields, or deprecation terms for MSAs, SOWs, or order forms. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
 
 
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task matches this source: >-
+Use when the task matches this source: Extracts technical API constraints from OpenAPI/Swagger specs and developer docs into a contract-ready API Access & Constraints Schedule with source traceability, risk flags, and change-control language. Use when drafting legal exhibits or schedules covering API access scope, rate limits, authentication, data fields, or deprecation terms for MSAs, SOWs, or order forms.
 
 ## Steps
 
-1. Confirm the task matches this source: >-
+1. Confirm the task matches this source: Extracts technical API constraints from OpenAPI/Swagger specs and developer docs into a contract-ready API Access & Constraints Schedule with source traceability, risk flags, and change-control language. Use when draftin
 2. Start with the upstream step: Gather OpenAPI/Swagger spec, auth docs, rate-limit page, changelog
 3. Continue with: Run Pre-Draft Intake to confirm scope and posture
 4. Record the result with caveats and human expert review.
