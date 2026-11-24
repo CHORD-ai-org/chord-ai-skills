@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Business growth and the upstream skill matches the request.
+Use when the task matches this source: Use when reviewing customer accounts for health, churn risk or expansion. Scores health with health_score_calculator.py, churn with churn_risk_analyzer.py and upsell with expansion_opportunity_scorer.py.
+
+## Steps
+
+1. Confirm the task matches this source: Use when reviewing customer accounts for health, churn risk or expansion. Scores health with health_score_calculator.py, churn with churn_risk_analyzer.py and upsell with expansion_opportunity_scorer.py.
+2. Start with the upstream step: text (default): Human-readable formatted output for terminal viewing
+3. Continue with: json: Machine-readable JSON output for integrations and pipelines
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/customer-success-manager
 
 ## Verify
 
