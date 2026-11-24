@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-cogni
 
 # Med Conducting Cognitive Assessments
 
+## Brief info
+
+Administers and interprets cognitive screening tools (MoCA, MMSE, SLUMS) with dementia evaluation. Use when screening for cognitive impairment, administering MoCA/MMSE, or evaluating dementia. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
