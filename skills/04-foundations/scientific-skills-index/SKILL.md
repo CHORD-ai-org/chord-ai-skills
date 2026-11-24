@@ -12,6 +12,11 @@ source: https://github.com/K-Dense-AI/scientific-agent-skills
 
 # Scientific Skills Index
 
+## Brief info
+
+Index of 177 scientific and research skills covering biology, chemistry, medicine, physics, engineering, earth science, data analysis, and scientific communication. Input: task or request that matches the upstream skill. Output: procedure and checkable result. Caveat: the skill is used outside its trigger or the source is not cited.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
