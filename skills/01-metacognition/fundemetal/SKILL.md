@@ -70,6 +70,10 @@ Do not present a protocol as complete when:
 
 ## Verify
 
+```bash
+python scripts/check_skills.py skills/01-metacognition/fundemetal
+```
+
 1. Pick one protocol from upstream `skills/`.
 2. Copy that single folder into the agent skills directory.
 3. Run its `evals/` suite.
