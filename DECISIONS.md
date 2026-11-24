@@ -14,3 +14,4 @@
 | D-10 | Domain skills are advisory only | resolved | Legal, medical, finance, and capital skills need human review |
 | D-11 | Do not reuse CC-BY-SA-4.0 skills | resolved | `trailofbits/skills` conflicts with this MIT repo |
 | D-12 | `jakubkrehel/skills` is MIT | resolved | LICENSE read directly; commit pin still needed before promotion |
+| D-13 | Do not copy or run upstream scripts | resolved | Security review in research/SECURITY.md |

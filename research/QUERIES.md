@@ -18,7 +18,9 @@ Verification per candidate: open README, license file or frontmatter, one `SKILL
 CLI discovery:
 
 ```bash
-npx skills find <keyword>
+DISABLE_TELEMETRY=1 npx skills find <keyword>
 npx skills add <repo> --list
 npx skills use <repo>@<skill>
 ```
+
+Do not run `npx skills use` on unreviewed sources.

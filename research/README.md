@@ -9,6 +9,8 @@ Research is staging. Promote a source into `skills/` only after verification.
 | `SAMPLES.md` | Observations from downloaded upstream samples |
 | `EXPERT_FIELDS.md` | Expert-field skill candidates |
 | `LICENSES.md` | License facts and legal decisions |
+| `SECURITY.md` | Script review and supply-chain rules |
+| `QUALITY_AUDIT.md` | Domain pointer quality audit |
 | `log/` | Append-only daily research logs |
 
 ## Meaning of verified

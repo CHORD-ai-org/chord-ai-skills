@@ -8,6 +8,7 @@ Read [PLAN.md](PLAN.md) before changing the repository.
 2. Add or update a row in [research/SOURCES.md](research/SOURCES.md).
 3. Mark `Confidence` as `verified` only after opening the README and license.
 4. Record license details in [research/LICENSES.md](research/LICENSES.md).
+5. Check [research/SECURITY.md](research/SECURITY.md). Do not copy or run upstream scripts.
 
 ## Add a skill
 
