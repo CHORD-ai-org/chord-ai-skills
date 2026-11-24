@@ -33,7 +33,7 @@ Use when the task matches this source: Size an ops or support team and plan head
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/capacity-planner
+Field: business-operations. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/capacity-planner
 
 ## Verify
 
