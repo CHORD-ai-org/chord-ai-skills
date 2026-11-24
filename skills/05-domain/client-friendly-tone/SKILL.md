@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Rewrites legal communications in plain-language, client-friendly tone. Triggers when drafting or revising engagement letters, status updates, strategy memos, settlement recommendations, invoice cover letters, or any client-facing correspondence. Replaces jargon, leads with conclusions, and highlights action items.
+
+## Steps
+
+1. Confirm the task matches this source: Rewrites legal communications in plain-language, client-friendly tone. Triggers when drafting or revising engagement letters, status updates, strategy memos, settlement recommendations, invoice cover letters, or any clie
+2. Start with the upstream step: Gather the draft or source text and audience context (sophistication level, emotional state of matter).
+3. Continue with: Apply the core rules below to the full document.
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/client-friendly-tone
 
 ## Verify
 
