@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Produces litigation-grade case summaries for animal law disputes including cruelty/neglect prosecutions, ownership/custody, dangerous animal designations, veterinary malpractice, and service/assistance animal accommodations. Builds exhibit-cited factual timelines, maps evidence to statutory elements, evaluates expert evidence, and assesses remedies with jurisdiction-specific legal research. Use when summarizing animal law cases, analyzing animal cruelty charges, pet custody disputes, dangerous dog hearings, veterinary malpractice claims, or assistance animal accommodation matters. Also trigger for animal forfeiture, bite liability, wildlife possession, or animal-related court filings.
+
+## Steps
+
+1. Confirm the task matches this source: Produces litigation-grade case summaries for animal law disputes including cruelty/neglect prosecutions, ownership/custody, dangerous animal designations, veterinary malpractice, and service/assistance animal accommodati
+2. Start with the upstream step: Jurisdiction — state, county, forum (state/federal/administrative)
+3. Continue with: Procedural posture — pre-suit, pleadings, TRO/PI, discovery, SJ, trial, sentencing, appeal
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/animal-law-case-summary
 
 ## Verify
 
