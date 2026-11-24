@@ -33,7 +33,7 @@ Use when the task matches this source: Use for /compliance-os:iso13485-audit-pre
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/iso13485-audit-prep
+Field: compliance-os. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/iso13485-audit-prep
 
 ## Verify
 
