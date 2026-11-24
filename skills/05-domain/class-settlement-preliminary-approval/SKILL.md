@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a Motion for Preliminary Approval of Class Action Settlement under Rule 23(e), covering settlement class certification, notice plan, claims administration, fairness analysis, and proposed scheduling order. Use when drafting preliminary approval motions, class action settlement filings, or Rule 23(e) submissions.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a Motion for Preliminary Approval of Class Action Settlement under Rule 23(e), covering settlement class certification, notice plan, claims administration, fairness analysis, and proposed scheduling order. Use whe
+2. Start with the upstream step: Executed settlement agreement — fully signed, with all exhibits
+3. Continue with: Case docket — filings, rulings, discovery milestones
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/class-settlement-preliminary-approval
 
 ## Verify
 
