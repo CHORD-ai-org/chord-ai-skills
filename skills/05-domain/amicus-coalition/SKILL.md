@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Manages end-to-end workflow for multi-organization amicus coalition briefs in appellate courts. Covers single-pen drafting governance, position alignment, conflict resolution, documented sign-offs, FRAP 29/Rule 37.6 disclosures, FRAP 26.1 corporate disclosures, cover formatting for multiple amici, and compliant filing. Use when coordinating coalition amicus briefs, managing sign-offs, drafting joint friend-of-court briefs, handling multi-amici filing, or resolving inter-organization conflicts. Triggers on phrases like \"coalition brief,\" \"12 orgs joining this amicus,\" or \"coordinate the amicus.
+
+## Steps
+
+1. Confirm the task matches this source: Manages end-to-end workflow for multi-organization amicus coalition briefs in appellate courts. Covers single-pen drafting governance, position alignment, conflict resolution, documented sign-offs, FRAP 29/Rule 37.6 disc
+2. Start with the upstream step: Gather intake (Checkpoint A below)
+3. Continue with: Establish governance and backward timeline from filing deadline
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/amicus-coalition
 
 ## Verify
 
