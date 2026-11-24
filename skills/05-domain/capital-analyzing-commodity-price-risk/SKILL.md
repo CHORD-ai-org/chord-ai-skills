@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-co
 
 # Capital Analyzing Commodity Price Risk
 
+## Brief info
+
+Evaluates commodity price exposure with forward curve analysis, hedging strategies, and break-even price sensitivity. Use when analyzing commodity risk, designing hedging programs, or stress testing price assumptions. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
