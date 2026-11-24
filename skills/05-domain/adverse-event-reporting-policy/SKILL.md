@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts an Adverse Event Reporting Policy compliant with 21 CFR 312.32 (IND safety reporting), 21 CFR 314.80 (postmarketing), and ICH E2A, with multi-jurisdictional overlays (EMA, PMDA, Health Canada). Covers seriousness/causality frameworks, expedited reporting timelines, roles, documentation standards, training mandates, and QA mechanisms. Use when drafting or updating an adverse event reporting policy, pharmacovigilance policy, AE/SAE reporting SOP, or safety reporting framework for a pharmaceutical company, CRO, biotech, or clinical research institution.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts an Adverse Event Reporting Policy compliant with 21 CFR 312.32 (IND safety reporting), 21 CFR 314.80 (postmarketing), and ICH E2A, with multi-jurisdictional overlays (EMA, PMDA, Health Canada). Covers seriousness/
+2. Start with the upstream step: Organization type — pharmaceutical sponsor, CRO, healthcare system, academic medical center, or combination
+3. Continue with: Product portfolio — IND products (Phase I–IV), approved drugs, biologics, devices, combination products, REMS-covered products
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/adverse-event-reporting-policy
 
 ## Verify
 
