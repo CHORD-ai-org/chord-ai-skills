@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/coding-medical-e
 
 # Med Coding Medical Encounters
 
+## Brief info
+
+Assigns ICD-10-CM diagnosis codes and CPT/HCPCS procedure codes with supporting documentation validation. Use when coding medical visits, selecting diagnosis codes, or assigning procedure codes. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
