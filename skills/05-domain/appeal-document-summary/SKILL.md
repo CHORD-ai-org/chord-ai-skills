@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Produces structured U.S. appellate document summaries mapping procedural posture, issues on appeal, standards of review, and competing arguments into memo-ready format. Use when summarizing appellate briefs, notices of appeal, records on appeal, or preparing for oral argument. Triggers: appeal, appellate, notice of appeal, standard of review, cross-appeal, appellate brief intake, record on appeal synthesis.
+
+## Steps
+
+1. Confirm the task matches this source: Produces structured U.S. appellate document summaries mapping procedural posture, issues on appeal, standards of review, and competing arguments into memo-ready format. Use when summarizing appellate briefs, notices of a
+2. Start with the upstream step: Record set — lower court orders/judgment, briefs, transcripts, docket, exhibits
+3. Continue with: Party posture — appellant/appellee, cross-appeals, consolidated matters
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/appeal-document-summary
 
 ## Verify
 
