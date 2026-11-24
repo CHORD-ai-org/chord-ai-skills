@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts jurisdiction-specific Advance Health Care Directive packages with agent appointment, living will instructions, HIPAA authorization bridge, organ donation preferences, and execution compliance checklists. Trigger when the user mentions advance directive, healthcare proxy, living will, health care agent, HIPAA authorization, medical power of attorney, end-of-life planning, capacity trigger planning, state-specific directive forms, witness/notary requirements for healthcare documents, or cross-state directive portability.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts jurisdiction-specific Advance Health Care Directive packages with agent appointment, living will instructions, HIPAA authorization bridge, organ donation preferences, and execution compliance checklists. Trigger w
+2. Start with the upstream step: Gather intake (Checkpoint A)
+3. Continue with: Map state law and validate inputs
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/advance-health-care-directive
 
 ## Verify
 
