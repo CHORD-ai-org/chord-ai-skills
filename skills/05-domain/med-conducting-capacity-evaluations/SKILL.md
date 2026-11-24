@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-capac
 
 # Med Conducting Capacity Evaluations
 
+## Brief info
+
+Assesses medical decision-making capacity with Appelbaum criteria documentation. Use when evaluating decision-making capacity, documenting capacity assessments, or determining informed consent ability. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
