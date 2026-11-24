@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-co
 
 # Finance Analyzing Convertible Bonds
 
+## Brief info
+
+Evaluates convertible bond structures with equity sensitivity, credit floor, and Greeks calculation. Use when analyzing convertibles, calculating conversion premiums, or evaluating hybrid instruments. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
