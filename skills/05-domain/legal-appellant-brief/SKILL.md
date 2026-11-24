@@ -1,6 +1,6 @@
 ---
 name: legal-appellant-brief
-description: ">-"
+description: "Drafts the appellant's opening brief challenging a lower court decision in federal or state appellate courts. Covers issue selection, standard of review framing, record citation, argument structure, and procedural compliance under FRAP 28/32 or state equivalents. Use when preparing an appellant's opening brief, selecting appellate issues, structuring appellate arguments, or demonstrating reversible error on appeal."
 category: 05-domain
 status: referenced
 inputs: a domain question, document, or decision to review
@@ -14,18 +14,18 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/appellant-brie
 
 ## Brief info
 
->- Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+Drafts the appellant's opening brief challenging a lower court decision in federal or state appellate courts. Covers issue selection, standard of review framing, record citation, argument structure, and procedural compliance under FRAP 28/32 or state equivalents. Use when preparing an appellant's opening brief, selecting appellate issues, structuring appellate arguments, or demonstrating reversible error on appeal. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
 
 
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task matches this source: >-
+Use when the task matches this source: Drafts the appellant's opening brief challenging a lower court decision in federal or state appellate courts. Covers issue selection, standard of review framing, record citation, argument structure, and procedural compliance under FRAP 28/32 or state equivalents. Use when preparing an appellant's opening brief, selecting appellate issues, structuring appellate arguments, or demonstrating reversible error on appeal.
 
 ## Steps
 
-1. Confirm the task matches this source: >-
+1. Confirm the task matches this source: Drafts the appellant's opening brief challenging a lower court decision in federal or state appellate courts. Covers issue selection, standard of review framing, record citation, argument structure, and procedural compli
 2. Start with the upstream step: Lower court decision — opinion, order, or judgment being appealed
 3. Continue with: Trial record — transcripts, exhibits, motions, and orders
 4. Record the result with caveats and human expert review.
