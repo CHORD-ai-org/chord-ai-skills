@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-co
 
 # Capital Analyzing Conglomerate Discount Dynamics
 
+## Brief info
+
+Evaluates conglomerate discount with SOTP analysis, segment-level valuation, and separation benefit quantification. Use when analyzing conglomerate value, building SOTP models, or evaluating break-up scenarios. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
