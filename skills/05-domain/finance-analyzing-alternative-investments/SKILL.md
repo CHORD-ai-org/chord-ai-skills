@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-al
 
 # Finance Analyzing Alternative Investments
 
+## Brief info
+
+Evaluates alternative investment strategies (hedge funds, real assets, private markets) with risk-return and liquidity analysis. Use when analyzing alternatives, evaluating fund strategies, or assessing illiquidity premiums. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
