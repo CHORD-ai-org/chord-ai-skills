@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Business growth and the upstream skill matches the request.
+Use when the task matches this source: Use when drafting a freelance contract, proposal, SOW, NDA or MSA for US, EU, UK or DACH jurisdictions. Writes structured Markdown with docx conversion steps; not legal advice.
+
+## Steps
+
+1. Confirm the task matches this source: Use when drafting a freelance contract, proposal, SOW, NDA or MSA for US, EU, UK or DACH jurisdictions. Writes structured Markdown with docx conversion steps; not legal advice.
+2. Start with the upstream step: Freelance development contracts (fixed-price & hourly)
+3. Continue with: Project proposals with timeline/budget breakdown
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/contract-and-proposal-writer
 
 ## Verify
 
