@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-co
 
 # Capital Analyzing Corporate Governance Catalysts
 
+## Brief info
+
+Identifies governance-related catalysts with board refreshment, compensation reform, and shareholder proposal analysis. Use when analyzing governance catalysts, evaluating shareholder proposals, or assessing governance improvement potential. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
