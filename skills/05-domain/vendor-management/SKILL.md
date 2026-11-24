@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/business-opera
 
 # Vendor Management
 
+## Brief info
+
+Use when scoring or auditing vendors: scorecards, SLA compliance and service credits, third-party risk tier or a tier-1 vendor review. Runs vendor_scorer.py, sla_compliance_tracker.py and vendor_risk_classifier.py. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
