@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Formats legal citations per The Bluebook (21st ed.) using Bluepages practitioner conventions. Use when citing authority in court filings, checking citation format, drafting briefs or memoranda, or formatting a table of authorities.
+
+## Steps
+
+1. Confirm the task matches this source: Formats legal citations per The Bluebook (21st ed.) using Bluepages practitioner conventions. Use when citing authority in court filings, checking citation format, drafting briefs or memoranda, or formatting a table of a
+2. Start with the upstream step: Italicize case names including *v.*
+3. Continue with: Omit "Inc.," "Ltd.," "Co." when other party-description words present (R. 10.2.1(h))
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/citation-bluebook
 
 ## Verify
 
