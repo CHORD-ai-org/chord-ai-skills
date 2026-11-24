@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts Assignment and Assumption Agreements transferring contractual rights and obligations from assignor to assignee in asset purchase transactions. Covers assignment mechanics, liability assumption with temporal cutoff, third-party consent handling, reps and warranties, indemnification, and Exhibit A contract schedule. Trigger keywords: \"assignment and assumption\", \"contract transfer\", \"assign contracts\", \"assume obligations\", \"asset purchase closing document\", \"assignor assignee agreement\".
+
+## Steps
+
+1. Confirm the task matches this source: Drafts Assignment and Assumption Agreements transferring contractual rights and obligations from assignor to assignee in asset purchase transactions. Covers assignment mechanics, liability assumption with temporal cutoff
+2. Start with the upstream step: Purchase Agreement — executed APA with section references for assignment/assumption obligations
+3. Continue with: Party details — legal names, entity types, jurisdictions for assignor and assignee
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/assignment-assumption
 
 ## Verify
 
