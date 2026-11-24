@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Extracts technical API constraints from OpenAPI/Swagger specs and developer docs into a contract-ready API Access & Constraints Schedule with source traceability, risk flags, and change-control language. Use when drafting legal exhibits or schedules covering API access scope, rate limits, authentication, data fields, or deprecation terms for MSAs, SOWs, or order forms.
+
+## Steps
+
+1. Confirm the task matches this source: Extracts technical API constraints from OpenAPI/Swagger specs and developer docs into a contract-ready API Access & Constraints Schedule with source traceability, risk flags, and change-control language. Use when draftin
+2. Start with the upstream step: Gather OpenAPI/Swagger spec, auth docs, rate-limit page, changelog
+3. Continue with: Run Pre-Draft Intake to confirm scope and posture
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/api-constraints-exhibit
 
 ## Verify
 
