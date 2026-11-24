@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-cr
 
 # Finance Analyzing Cryptocurrency Tax
 
+## Brief info
+
+Structures cryptocurrency tax analysis with cost basis tracking, gain classification, and reporting requirements. Use when analyzing crypto tax, tracking digital asset basis, or classifying crypto transactions. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
