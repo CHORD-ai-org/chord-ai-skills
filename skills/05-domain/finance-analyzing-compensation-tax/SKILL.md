@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-co
 
 # Finance Analyzing Compensation Tax
 
+## Brief info
+
+Evaluates executive compensation tax with Section 409A, 280G golden parachute, and equity comp treatment. Use when analyzing compensation tax, evaluating 409A compliance, or structuring equity compensation. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
