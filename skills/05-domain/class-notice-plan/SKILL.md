@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a Rule 23 class notice communication plan for U.S. federal class actions, covering notice content, delivery methods, timelines, budgets, and reporting to satisfy the \"best notice practicable\" standard. Use after class certification or when seeking settlement approval. Trigger when user mentions class notice, notice plan, communication plan, Rule 23(c)(2)(B), claims administrator, or CAFA notice. The CAFA 28 U.S.C. 1715 notice package to officials and its clock go to class-action-settlement.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a Rule 23 class notice communication plan for U.S. federal class actions, covering notice content, delivery methods, timelines, budgets, and reporting to satisfy the \"best notice practicable\" standard. Use after
+2. Start with the upstream step: Class certification order or proposed certification motion
+3. Continue with: Class definition and any subclasses (verbatim from order)
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/class-notice-plan
 
 ## Verify
 
