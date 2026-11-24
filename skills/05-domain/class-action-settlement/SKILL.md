@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts and reviews federal class action settlement agreements and Rule 23(e) approval papers so the court can find the deal fair, reasonable and adequate. Compares settlement class and release with the complaint (identical factual predicate, released parties, other pending actions), reconciles gross fund to expected payout with a sourced claims rate, tests reversion, clear-sailing and kicker clauses, cy pres, Rule 23(h) fees against actual class recovery, service or incentive awards by circuit (Johnson v. NPAS), coupon settlements under 28 U.S.C. 1712, and builds a clocks table for CAFA notice under 28 U.S.C. 1715, notice date, opt-out, objection, fee motion and fairness hearing. Identifies side agreements and blow provisions under Rule 23(e)(3) and objector payments under 23(e)(5)(B), and declines to conceal them from the court. Use for settlement agreement drafting, preliminary or final approval review. Routes notices, claim forms, fee and approval motions to sibling skills.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts and reviews federal class action settlement agreements and Rule 23(e) approval papers so the court can find the deal fair, reasonable and adequate. Compares settlement class and release with the complaint (identic
+2. Start with the upstream step: Draft only. Nothing is signed, filed or served by this skill. Every output is a draft for attorney review and is never described as ready to file.
+3. Continue with: Source-review gate. Never call a document missing until the matter inventory has been checked and the file opened, with OCR or extraction tried. Classify every open item as one...
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/class-action-settlement
 
 ## Verify
 
