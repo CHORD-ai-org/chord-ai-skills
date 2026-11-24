@@ -1,6 +1,6 @@
 ---
 name: legal-access-indemnity-agreement
-description: ">-"
+description: "Drafts U.S. commercial real estate access and indemnity (right-of-entry) agreements for pre-closing due diligence. Covers license grants, non-invasive vs invasive testing gates, insurance/endorsement requirements, indemnity with discovery carve-outs, restoration and lien remedies, confidentiality, and anti-indemnity guardrails. Trigger: access agreement, right of entry, due diligence access, Phase I/II, invasive testing, pre-PSA site inspection."
 category: 05-domain
 status: referenced
 inputs: a domain question, document, or decision to review
@@ -14,18 +14,18 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/access-indemni
 
 ## Brief info
 
->- Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+Drafts U.S. commercial real estate access and indemnity (right-of-entry) agreements for pre-closing due diligence. Covers license grants, non-invasive vs invasive testing gates, insurance/endorsement requirements, indemnity with discovery carve-outs, restoration and lien remedies, confidentiality, and anti-indemnity guardrails. Trigger: access agreement, right of entry, due diligence access, Phase I/II, invasive testing, pre-PSA site inspection. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
 
 
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task matches this source: >-
+Use when the task matches this source: Drafts U.S. commercial real estate access and indemnity (right-of-entry) agreements for pre-closing due diligence. Covers license grants, non-invasive vs invasive testing gates, insurance/endorsement requirements, indemnity with discovery carve-outs, restoration and lien remedies, confidentiality, and anti-indemnity guardrails. Trigger: access agreement, right of entry, due diligence access, Phase I/II, invasive testing, pre-PSA site inspection.
 
 ## Steps
 
-1. Confirm the task matches this source: >-
+1. Confirm the task matches this source: Drafts U.S. commercial real estate access and indemnity (right-of-entry) agreements for pre-closing due diligence. Covers license grants, non-invasive vs invasive testing gates, insurance/endorsement requirements, indemn
 2. Start with the upstream step: Run Pre-Draft Intake to collect deal parameters
 3. Continue with: Draft defined terms and license grant
 4. Record the result with caveats and human expert review.
