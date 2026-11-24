@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/ada-failure-to
 
 # Legal Ada Failure To Accommodate Complaint
 
+## Brief info
+
+Drafts a court-ready ADA failure-to-accommodate complaint under Title I (employment, 42 U.S.C. § 12112) or Title III (public accommodations, 42 U.S.C. § 12182). Structures jurisdiction, EEOC exhaustion, factual allegations, causes of action, and relief. Use when drafting ADA disability discrimination complaints, reasonable accommodation pleadings, or civil rights complaints for plaintiffs with disabilities. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
