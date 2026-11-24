@@ -1,5 +1,6 @@
 ---
 name: skill-id
+description: what the skill does and when to use it
 category: 00-category
 status: draft
 inputs: what the user gives
