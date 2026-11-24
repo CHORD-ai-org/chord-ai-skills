@@ -33,7 +33,7 @@ Use when the task matches this source: EU AI Act readiness: risk tier, duties, d
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/ai-act-readiness
+Field: compliance-os. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/ai-act-readiness
 
 ## Verify
 
