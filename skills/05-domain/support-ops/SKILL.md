@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Business growth and the upstream skill matches the request.
+Use when the task matches this source: Use for any customer support operations question - SLA attainment and breaches (first response, resolution, business hours, weekends, tickets about to breach), how many agents to schedule per hour for a phone, chat or email queue and where the roster is short (Erlang C, service level, handle time, shrinkage, occupancy, backlog), or which ticket topics to deflect with help-center articles, automate with macros or fix as product bugs. Works from a helpdesk ticket export with stdlib scripts.
+
+## Steps
+
+1. Confirm the task matches this source: Use for any customer support operations question - SLA attainment and breaches (first response, resolution, business hours, weekends, tickets about to breach), how many agents to schedule per hour for a phone, chat or em
+2. Start with the upstream step: Ask which clock the SLA runs on (business or calendar, timezone, holidays) before reporting attainment. Never assume.
+3. Continue with: Open breaches count. Never report attainment on closed tickets only.
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/support-ops
 
 ## Verify
 
