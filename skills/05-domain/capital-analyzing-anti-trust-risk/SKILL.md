@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-an
 
 # Capital Analyzing Anti Trust Risk
 
+## Brief info
+
+Evaluates competition law exposure with market definition, HHI analysis, and remedy estimation for proposed transactions. Use when assessing merger clearance risk or analyzing market concentration. HSR reportability, thresholds, fees, waiting periods and the filing itself go to hsr-filing. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
