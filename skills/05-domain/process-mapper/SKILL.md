@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Business operations and the upstream skill matches the request.
+Use when the task matches this source: Use when documenting an end-to-end business process (procurement, onboarding, handoffs) and finding where work waits. Maps it with process_documenter.py, measures stages with cycle_time_analyzer.py and finds bottlenecks with bottleneck_detector.py.
+
+## Steps
+
+1. Confirm the task matches this source: Use when documenting an end-to-end business process (procurement, onboarding, handoffs) and finding where work waits. Maps it with process_documenter.py, measures stages with cycle_time_analyzer.py and finds bottlenecks 
+2. Start with the upstream step: Implicit process — the steps exist only in tribal knowledge, so handoffs drop and onboarding takes weeks.
+3. Continue with: Invisible waiting — most of the elapsed time on any business process is queue / wait / approval time, not actual work; teams optimize the wrong stage.
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/process-mapper
 
 ## Verify
 
