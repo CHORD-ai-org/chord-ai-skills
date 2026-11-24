@@ -33,7 +33,7 @@ Use when the task matches this source: Route internal operations requests to the
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/business-operations-skills
+Field: business-operations. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/business-operations-skills
 
 ## Verify
 
