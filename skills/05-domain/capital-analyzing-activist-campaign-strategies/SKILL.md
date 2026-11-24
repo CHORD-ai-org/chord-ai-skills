@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-ac
 
 # Capital Analyzing Activist Campaign Strategies
 
+## Brief info
+
+Evaluates activist investor campaigns with thesis assessment, proposed changes, and likely outcome analysis. Use when analyzing activist situations, evaluating campaign theses, or assessing activist track records. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
