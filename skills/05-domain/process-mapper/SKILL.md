@@ -33,7 +33,7 @@ Use when the task matches this source: Use when documenting an end-to-end busine
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/process-mapper
+Field: business-operations. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/process-mapper
 
 ## Verify
 
