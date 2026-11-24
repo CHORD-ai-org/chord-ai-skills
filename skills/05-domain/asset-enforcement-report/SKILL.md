@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Generates a post-judgment asset and enforcement report synthesizing debtor asset investigations, exemption analysis, fraudulent transfer assessment, and prioritized collection strategies. Use when preparing judgment enforcement plans, debtor asset profiles, collection status reports, or post-trial recovery analysis.
+
+## Steps
+
+1. Confirm the task matches this source: Generates a post-judgment asset and enforcement report synthesizing debtor asset investigations, exemption analysis, fraudulent transfer assessment, and prioritized collection strategies. Use when preparing judgment enfo
+2. Start with the upstream step: Judgment documents — order text, amount (principal, interest, costs, fees), case caption, court, entry date
+3. Continue with: Post-judgment discovery — debtor examination transcripts, interrogatory responses, document production, third-party subpoena returns
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/asset-enforcement-report
 
 ## Verify
 
