@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts Confidentiality and Invention Assignment Agreements (CIIAs) for U.S. companies with jurisdiction-specific invention carve-outs, DTSA whistleblower notices, and restrictive covenants. Use when drafting employee confidentiality agreements, invention assignment agreements, proprietary information agreements, or IP assignment provisions for onboarding, corporate formation, or employment contexts.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts Confidentiality and Invention Assignment Agreements (CIIAs) for U.S. companies with jurisdiction-specific invention carve-outs, DTSA whistleblower notices, and restrictive covenants. Use when drafting employee con
+2. Start with the upstream step: Company info — legal entity name, state of incorporation, address
+3. Continue with: Employee/contractor info — full name, address, role, start date
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/ciia-agreement
 
 ## Verify
 
