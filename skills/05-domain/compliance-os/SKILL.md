@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/
 
 # Compliance Os
 
+## Brief info
+
+Use when running several compliance frameworks at once: which apply, where controls overlap, a mock audit or one evidence checklist. Runs framework_selector.py, cross_framework_mapper.py, audit_simulator.py and evidence_pool_generator.py. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
