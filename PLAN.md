@@ -999,3 +999,337 @@ This ordering is now mandatory. The earlier Stage S table is superseded where it
 - `scripts/check_skills.py` fails when `description` is missing.
 - `research/SAMPLES.md` exists and links no raw copied files.
 - No upstream `SKILL.md` text is committed into this repository.
+
+---
+
+## 27. Next-step plan after the 180-skill import
+
+Added after the 2026-11-24 import and repo audit. This section supersedes earlier task ordering where it conflicts.
+
+### 27.1 Audit baseline
+
+| Check | Result |
+| --- | --- |
+| `SKILL.md` count | 182 |
+| Category coverage | `01` 1, `02` 0, `03` 0, `04` 0, `05` 180, `06` 1, `07` 0, `08` 0 |
+| Duplicate names | 0 |
+| Descriptions over 1024 chars | 0 |
+| Missing required body sections | 183 findings |
+| Generic trigger text | 180 files |
+| Invalid `source` format | 1 file (`grill-me`) |
+| Governance files | 7 proposed files missing |
+| READMEs with Chinese characters | 0 |
+| Validator | 182 OK / 0 FAIL |
+
+The validator passes, but the content is not yet good enough. The main problem is format consistency, not frontmatter correctness.
+
+### 27.2 Phase N1 — Fix the canonical format
+
+Goal: one `SKILL.md` shape across all 182 files.
+
+Required frontmatter order:
+
+```yaml
+name:
+description:
+category:
+status:
+inputs:
+outputs:
+fails_when:
+verify:
+source:
+```
+
+Required body sections for every skill:
+
+```markdown
+## Trigger
+## Steps
+## Hard rules
+## Verify
+```
+
+Pointer skills may add:
+
+```markdown
+## Source notes
+## Failure conditions
+## License
+## Why blocked
+```
+
+Rules:
+
+1. `description` stays one line and under 1024 characters.
+2. `source` must be an `http...` / `https...` URL or exactly `from the start.md`.
+3. `## Trigger` must name the concrete task. Ban the generic sentence `Use when the task falls under ... and the upstream skill matches the request.`
+4. `## Steps` must contain at least 2 actionable lines.
+5. `## Hard rules` must contain the advisory-only rule for legal, medical, finance, and capital skills.
+6. `## Verify` must contain the validator command.
+7. Fundemetal must be rewritten to include the four required body sections.
+8. `grill-me` source must be changed to `from the start.md`; the date and category belong in the body.
+
+Acceptance criteria:
+
+- `missing_sections` audit result is 0.
+- `generic_trigger` audit result is 0.
+- `bad_source` audit result is 0.
+- Validator still reports 182 OK / 0 FAIL.
+
+Files touched:
+
+```text
+templates/SKILL.md
+scripts/check_skills.py
+skills/01-metacognition/fundemetal/SKILL.md
+skills/06-interaction/grill-me/SKILL.md
+skills/05-domain/*/SKILL.md    # 180 files
+```
+
+### 27.3 Phase N2 — Upgrade the validator
+
+Goal: make format rules executable.
+
+Add checks:
+
+1. Required body sections present.
+2. `description` non-empty and <= 1024 chars.
+3. `name` uses `^[a-z0-9]+(?:-[a-z0-9]+)*$`.
+4. `source` is URL or exactly `from the start.md`.
+5. `## Trigger` does not contain the banned generic sentence.
+6. `## Steps` has at least 2 non-empty list items.
+7. `## Verify` contains `python scripts/check_skills.py`.
+8. Category README contains a row for each skill.
+9. Counts in root README match filesystem counts.
+
+Do not add third-party dependencies.
+
+Acceptance criteria:
+
+- Validator fails on one intentionally broken fixture per rule.
+- Validator output stays plain text with file path and reason.
+- Full run reports 182 OK / 0 FAIL after N1.
+
+### 27.4 Phase N3 — Fill the empty categories
+
+Goal: no category except `08` stays empty without a written reason.
+
+| Category | First skill to add | Source | Status |
+| --- | --- | --- | --- |
+| `02-engineering` | `superpowers-brainstorming` | `obra/superpowers` | `referenced` |
+| `02-engineering` | `superpowers-tdd` | `obra/superpowers` | `referenced` |
+| `03-visual` | `anthropics-frontend-design` | `anthropics/skills` | `referenced` |
+| `03-visual` | `vercel-web-design-guidelines` | `vercel-labs/agent-skills` | `referenced` |
+| `04-foundations` | `scientific-skills-index` | `K-Dense-AI` source, after verification | `referenced` |
+| `07-narrative` | `story-worldbuilding` | `danjdewhurst/story-skills` | `referenced` |
+| `08-specific` | `find-skills` | local workflow around `npx skills find` | `draft` |
+
+Rules:
+
+1. Add one skill at a time.
+2. Use the canonical format from N1.
+3. Update the category README and root README count in the same change set.
+4. Pin the upstream commit in `research/SOURCES.md` before promotion.
+5. Do not copy upstream files into the repo.
+
+Acceptance criteria:
+
+- All 8 categories have at least one `SKILL.md`.
+- Every new skill has `description`.
+- Validator passes.
+
+### 27.5 Phase N4 — Governance files
+
+Goal: make contribution and review explicit.
+
+Create:
+
+```text
+CONTRIBUTING.md
+DECISIONS.md
+research/LICENSES.md
+research/README.md
+.github/ISSUE_TEMPLATE/source-candidate.md
+.github/ISSUE_TEMPLATE/skill-proposal.md
+.github/PULL_REQUEST_TEMPLATE.md
+.github/workflows/check-skills.yml
+```
+
+Content requirements:
+
+| File | Must contain |
+| --- | --- |
+| `CONTRIBUTING.md` | Source verification, skill creation, validator command, commit rule |
+| `DECISIONS.md` | D-01 license conflict, D-02 package layout, D-05 no bulk install, D-07 scripts as code |
+| `research/LICENSES.md` | MIT, Apache 2.0, CC0, per-skill MIT, CC-BY-SA-4.0, SPDX unknown |
+| `research/README.md` | Meaning of `SOURCES.md`, `QUERIES.md`, `SAMPLES.md`, `EXPERT_FIELDS.md`, `log/` |
+| Source-candidate issue | Repo URL, category, license, scripts, evals, verification notes |
+| Skill-proposal issue | Trigger, inputs, outputs, fails_when, verify, source |
+| PR template | Changed file, validator output, source license, human review status |
+| CI workflow | `python scripts/check_skills.py` on PR and push to `main` |
+
+Acceptance criteria:
+
+- All listed files exist.
+- CI job runs with Python 3.13 and no extra dependencies.
+- `CONTRIBUTING.md` links to `PLAN.md` and `templates/SKILL.md`.
+
+### 27.6 Phase N5 — Source pinning and license hygiene
+
+Goal: every promoted pointer has a traceable upstream state.
+
+Actions:
+
+1. Add `Commit` column to `research/SOURCES.md`.
+2. Pin commit SHA for:
+   - `anthropics/skills`
+   - `obra/superpowers`
+   - `vercel-labs/agent-skills`
+   - `danjdewhurst/story-skills`
+   - `casemark/skills`
+   - `alirezarezvani/claude-skills`
+   - `zbbsdsb/Fundemetal`
+3. Read `LICENSE` for `jakubkrehel/skills` and set SPDX.
+4. Decide whether `trailofbits/skills` CC-BY-SA-4.0 is usable in this MIT repo.
+5. Resolve the CHORD website GPL-3.0 vs repo MIT conflict.
+6. Add one `License` line to each pointer skill body.
+
+Acceptance criteria:
+
+- No promoted source has `Confidence: unverified`.
+- No promoted source has empty `Commit`.
+- Legal decisions are recorded in `DECISIONS.md`.
+
+### 27.7 Phase N6 — Package layout and release artifacts
+
+Goal: make the repo consumable by `npx skills add` without breaking category folders.
+
+Actions:
+
+1. Add `scripts/build_release_index.py`.
+2. Read all `skills/*/*/SKILL.md`.
+3. Write `releases/skills/<name>/SKILL.md`.
+4. Write `releases/index.json`.
+5. Skip `status: blocked`.
+6. Preserve `name`, `description`, and other frontmatter.
+7. Add `releases/` to `.gitignore`.
+8. Document the command in `README.md`.
+
+Acceptance criteria:
+
+- Generated artifacts pass a basic frontmatter check.
+- Duplicate names fail the build.
+- Script never writes into `skills/`.
+- Source tree stays unchanged.
+
+### 27.8 Phase N7 — Expert-field quality pass
+
+Goal: 180 domain pointers become useful, not just present.
+
+Actions:
+
+1. Split review by field: law, medicine, finance, capital.
+2. Replace generic trigger text with the first sentence of each upstream description.
+3. Add 2–5 steps from the upstream skill where available.
+4. Keep the human-expert-review rule in every domain pointer.
+5. Mark each skill with one of:
+   - `candidate` in `research/EXPERT_FIELDS.md`
+   - `referenced` once its body is rewritten
+   - `ready` after one real run with evidence
+6. Build a random sample audit of 20 skills: 5 per field.
+7. Remove or mark `blocked` any skill whose upstream folder cannot be opened.
+
+Acceptance criteria:
+
+- 180 domain pointers have zero generic triggers.
+- 20 sampled skills have non-empty, field-specific steps.
+- No domain skill claims professional authority.
+
+### 27.9 Phase N8 — Security pass
+
+Goal: no unreviewed executable content.
+
+Actions:
+
+1. List all promoted sources with `scripts/`.
+2. Read scripts in `anthropics/skills`, `obra/superpowers`, `vercel-labs/agent-skills`, `danjdewhurst/story-skills`, and `alirezarezvani/claude-skills`.
+3. Record audit result in `research/SOURCES.md`.
+4. Do not run `npx skills use` on unreviewed sources.
+5. Disable telemetry during CLI discovery:
+
+```bash
+DISABLE_TELEMETRY=1 npx skills find <keyword>
+```
+
+Acceptance criteria:
+
+- Every promoted source with scripts has a review note.
+- No external scripts are copied into this repo.
+- No CI step installs third-party skills.
+
+### 27.10 Phase N9 — Documentation polish
+
+Goal: README files describe the repo accurately.
+
+Actions:
+
+1. Root README links to `PLAN.md`, `CONTRIBUTING.md`, `research/EXPERT_FIELDS.md`.
+2. Replace the skill total sentence after each import.
+3. Add a status legend with plain meanings.
+4. Add a one-line description of generated release artifacts.
+5. Keep the open license conflict visible until resolved.
+6. Ensure all README files stay English.
+
+Acceptance criteria:
+
+- No README count disagrees with the filesystem.
+- No broken relative links.
+- No Chinese characters in README files.
+
+### 27.11 Phase N10 — Metrics and review
+
+Goal: track useful signals only.
+
+Metrics:
+
+| Metric | Source |
+| --- | --- |
+| Skills by category | filesystem count |
+| Referenced / draft / ready / reused / blocked | frontmatter status |
+| Generic triggers | validator audit |
+| Missing body sections | validator audit |
+| Pinned sources | `research/SOURCES.md` |
+| Human-reviewed domain skills | `research/EXPERT_FIELDS.md` |
+| Open legal decisions | `DECISIONS.md` |
+
+Ignore stars, downloads, and bulk-install counts.
+
+Review cadence:
+
+| Action | When |
+| --- | --- |
+| Validator | every commit |
+| README count check | every skill change |
+| License recheck | quarterly |
+| Expert-field sample audit | after every 20 new domain skills |
+| Review blocked skills | when dependency changes |
+
+### 27.12 Immediate task order
+
+Execute in this order:
+
+| # | Task | Output |
+| --- | --- | --- |
+| 1 | Fix `grill-me` source field | one modified file |
+| 2 | Rewrite fundemetal body sections | one modified file |
+| 3 | Rewrite 180 domain pointers to remove generic triggers and add steps | 180 modified files |
+| 4 | Upgrade validator with body-section checks | one modified file |
+| 5 | Add CONTRIBUTING and DECISIONS | two new files |
+| 6 | Add research governance files | four new files |
+| 7 | Add GitHub templates and CI | four new files |
+| 8 | Pin source commits | one modified file |
+| 9 | Add missing category skills | one new skill per commit |
+| 10 | Add release index script | one new file |
+
+Commit rule stays unchanged: one file per English commit. No push from this environment.
