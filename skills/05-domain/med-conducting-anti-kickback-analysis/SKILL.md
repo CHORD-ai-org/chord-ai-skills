@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-anti-
 
 # Med Conducting Anti Kickback Analysis
 
+## Brief info
+
+Evaluates payment arrangements against Anti-Kickback Statute safe harbors with documentation. Use when analyzing AKS compliance, evaluating compensation arrangements, or documenting safe harbor applicability. Counsel's AKS intent analysis and opinions go to stark-law-aks-compliance; FCA exposure and overpayment sizing go to conducting-false-claims-analysis. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
