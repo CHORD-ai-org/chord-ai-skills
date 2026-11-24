@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-antim
 
 # Med Conducting Antimicrobial Stewardship
 
+## Brief info
+
+Reviews antibiotic appropriateness with spectrum optimization, de-escalation, and duration recommendations. Use when reviewing antibiotic use, recommending de-escalation, or conducting antibiotic time-outs. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
