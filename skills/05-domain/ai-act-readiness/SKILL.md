@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/
 
 # Ai Act Readiness
 
+## Brief info
+
+EU AI Act readiness: risk tier, duties, deadlines. Load whenever AI ships in the EU or the user asks if the Act applies. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
