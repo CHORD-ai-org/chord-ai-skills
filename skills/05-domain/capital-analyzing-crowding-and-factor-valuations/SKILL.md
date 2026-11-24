@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cr
 
 # Capital Analyzing Crowding And Factor Valuations
 
+## Brief info
+
+Evaluates factor crowding with positioning analysis, valuation spread monitoring, and unwind risk assessment. Use when analyzing factor crowding, assessing unwind risk, or monitoring factor valuation extremes. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
