@@ -1,6 +1,6 @@
 ---
 name: legal-answer-affirmative-defenses
-description: ">-"
+description: "Drafts U.S. civil litigation Answers with paragraph-by-paragraph admissions/denials, affirmative defenses, and counterclaim triage. Trigger when user needs a responsive pleading to a complaint, mentions affirmative defenses, admit/deny responses, Rule 8, or insufficient knowledge responses."
 category: 05-domain
 status: referenced
 inputs: a domain question, document, or decision to review
@@ -14,18 +14,18 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/answer-affirma
 
 ## Brief info
 
->- Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+Drafts U.S. civil litigation Answers with paragraph-by-paragraph admissions/denials, affirmative defenses, and counterclaim triage. Trigger when user needs a responsive pleading to a complaint, mentions affirmative defenses, admit/deny responses, Rule 8, or insufficient knowledge responses. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
 
 
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task matches this source: >-
+Use when the task matches this source: Drafts U.S. civil litigation Answers with paragraph-by-paragraph admissions/denials, affirmative defenses, and counterclaim triage. Trigger when user needs a responsive pleading to a complaint, mentions affirmative defenses, admit/deny responses, Rule 8, or insufficient knowledge responses.
 
 ## Steps
 
-1. Confirm the task matches this source: >-
+1. Confirm the task matches this source: Drafts U.S. civil litigation Answers with paragraph-by-paragraph admissions/denials, affirmative defenses, and counterclaim triage. Trigger when user needs a responsive pleading to a complaint, mentions affirmative defen
 2. Start with the upstream step: Complaint — filed version with numbered paragraphs and caption
 3. Continue with: Service data — date, method, proof of service
 4. Record the result with caveats and human expert review.
