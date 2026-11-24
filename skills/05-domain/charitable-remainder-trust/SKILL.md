@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts IRC 664–compliant Charitable Remainder Trust agreements (CRAT/CRUT), covering payout math, remainder qualification, trustee powers, and tax compliance. Use when drafting a CRT, CRAT, CRUT, unitrust, annuity trust, or charitable remainder planning document, or when ensuring IRC 664 compliance.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts IRC 664–compliant Charitable Remainder Trust agreements (CRAT/CRUT), covering payout math, remainder qualification, trustee powers, and tax compliance. Use when drafting a CRT, CRAT, CRUT, unitrust, annuity trust,
+2. Start with the upstream step: Trust type: CRAT or CRUT; if CRUT, whether NICRUT or NIMCRUT applies.
+3. Continue with: Parties: Settlor, trustee(s), income beneficiary(ies), charitable remainder beneficiary(ies) or selection authority.
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/charitable-remainder-trust
 
 ## Verify
 
