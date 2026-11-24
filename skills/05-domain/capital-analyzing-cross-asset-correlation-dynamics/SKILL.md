@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cr
 
 # Capital Analyzing Cross Asset Correlation Dynamics
 
+## Brief info
+
+Monitors cross-asset correlation patterns with regime-dependent analysis and diversification effectiveness assessment. Use when analyzing correlations, assessing diversification, or evaluating cross-asset relationships. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
