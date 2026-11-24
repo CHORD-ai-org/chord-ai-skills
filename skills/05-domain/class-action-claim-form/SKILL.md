@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts official class action claim forms balancing plain-language accessibility with FRCP 23 enforceability. Trigger when creating settlement claim forms, proof-of-claim documents, or class member claim submissions.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts official class action claim forms balancing plain-language accessibility with FRCP 23 enforceability. Trigger when creating settlement claim forms, proof-of-claim documents, or class member claim submissions.
+2. Start with the upstream step: Settlement agreement — approved or pending, with class definition, claim categories, compensation structure
+3. Continue with: Court orders — preliminary/final approval with any form-specific requirements
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/class-action-claim-form
 
 ## Verify
 
