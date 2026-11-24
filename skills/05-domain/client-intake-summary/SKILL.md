@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Produces a structured corporate-client intake brief from intake forms, consultation notes, and initial communications. Use when onboarding a new corporate matter, processing an intake packet, summarizing consult notes, running a conflict check, or triaging deadlines for a corporate governance matter.
+
+## Steps
+
+1. Confirm the task matches this source: Produces a structured corporate-client intake brief from intake forms, consultation notes, and initial communications. Use when onboarding a new corporate matter, processing an intake packet, summarizing consult notes, r
+2. Start with the upstream step: Intake packet: forms, engagement data, identity/contact details, entity structure
+3. Continue with: Communications: emails, call/meeting notes, preliminary documents
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/client-intake-summary
 
 ## Verify
 
