@@ -12,3 +12,5 @@
 | D-08 | Ignore star counts | resolved | Sources disagree; not a quality signal |
 | D-09 | Require four canonical body sections | resolved | 180 imported pointers had inconsistent bodies |
 | D-10 | Domain skills are advisory only | resolved | Legal, medical, finance, and capital skills need human review |
+| D-11 | Do not reuse CC-BY-SA-4.0 skills | resolved | `trailofbits/skills` conflicts with this MIT repo |
+| D-12 | `jakubkrehel/skills` is MIT | resolved | LICENSE read directly; commit pin still needed before promotion |
