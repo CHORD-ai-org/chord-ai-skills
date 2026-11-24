@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Compliance and the upstream skill matches the request.
+Use when the task matches this source: EU AI Act readiness: risk tier, duties, deadlines. Load whenever AI ships in the EU or the user asks if the Act applies.
+
+## Steps
+
+1. Confirm the task matches this source: EU AI Act readiness: risk tier, duties, deadlines. Load whenever AI ships in the EU or the user asks if the Act applies.
+2. Start with the upstream step: During AI-system intake review (per new system or material change)
+3. Continue with: Before placing an AI system on the EU market
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/ai-act-readiness
 
 ## Verify
 
