@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-de
 
 # Finance Analyzing Development Feasibility
 
+## Brief info
+
+Evaluates real estate development projects with cost analysis, return projections, and risk assessment. Use when analyzing development deals, projecting development returns, or assessing feasibility. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
