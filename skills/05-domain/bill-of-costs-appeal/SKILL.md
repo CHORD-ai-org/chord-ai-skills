@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts an itemized Bill of Costs on Appeal under FRAP 39 or state equivalent for the prevailing party to recover allowable appellate expenses. Triggers on appellate cost bill drafting, post-judgment cost recovery filings, or prevailing party cost submissions.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts an itemized Bill of Costs on Appeal under FRAP 39 or state equivalent for the prevailing party to recover allowable appellate expenses. Triggers on appellate cost bill drafting, post-judgment cost recovery filings
+2. Start with the upstream step: Appellate judgment — entry date confirmed; deadline is typically 14 days (FRAP 39(d))
+3. Continue with: Cost documentation — receipts, invoices, proof of payment for every claimed item
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/bill-of-costs-appeal
 
 ## Verify
 
