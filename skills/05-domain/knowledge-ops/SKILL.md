@@ -33,7 +33,7 @@ Use when the task matches this source: Use when writing, checking or cleaning up
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/knowledge-ops
+Field: business-operations. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/knowledge-ops
 
 ## Verify
 
