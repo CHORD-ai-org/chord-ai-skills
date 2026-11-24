@@ -33,7 +33,7 @@ Use when the task matches this source: Use when announcing a reorg, tool rollout
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/internal-comms
+Field: business-operations. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/internal-comms
 
 ## Verify
 
