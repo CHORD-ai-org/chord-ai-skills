@@ -33,7 +33,7 @@ Use when the task matches this source: Use for any customer support operations q
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/support-ops
+Field: business-growth. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/support-ops
 
 ## Verify
 
