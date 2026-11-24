@@ -1,6 +1,6 @@
 ---
 name: legal-appeal-document-summary
-description: ">-"
+description: "Produces structured U.S. appellate document summaries mapping procedural posture, issues on appeal, standards of review, and competing arguments into memo-ready format. Use when summarizing appellate briefs, notices of appeal, records on appeal, or preparing for oral argument. Triggers: appeal, appellate, notice of appeal, standard of review, cross-appeal, appellate brief intake, record on appeal synthesis."
 category: 05-domain
 status: referenced
 inputs: a domain question, document, or decision to review
@@ -14,18 +14,18 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/appeal-documen
 
 ## Brief info
 
->- Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+Produces structured U.S. appellate document summaries mapping procedural posture, issues on appeal, standards of review, and competing arguments into memo-ready format. Use when summarizing appellate briefs, notices of appeal, records on appeal, or preparing for oral argument. Triggers: appeal, appellate, notice of appeal, standard of review, cross-appeal, appellate brief intake, record on appeal synthesis. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
 
 
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task matches this source: >-
+Use when the task matches this source: Produces structured U.S. appellate document summaries mapping procedural posture, issues on appeal, standards of review, and competing arguments into memo-ready format. Use when summarizing appellate briefs, notices of appeal, records on appeal, or preparing for oral argument. Triggers: appeal, appellate, notice of appeal, standard of review, cross-appeal, appellate brief intake, record on appeal synthesis.
 
 ## Steps
 
-1. Confirm the task matches this source: >-
+1. Confirm the task matches this source: Produces structured U.S. appellate document summaries mapping procedural posture, issues on appeal, standards of review, and competing arguments into memo-ready format. Use when summarizing appellate briefs, notices of a
 2. Start with the upstream step: Record set — lower court orders/judgment, briefs, transcripts, docket, exhibits
 3. Continue with: Party posture — appellant/appellee, cross-appeals, consolidated matters
 4. Record the result with caveats and human expert review.
