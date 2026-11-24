@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/
 
 # Gdpr Audit Prep
 
+## Brief info
+
+Use for /compliance-os:gdpr-audit-prep, or before a GDPR review, post-breach audit or DPA investigation. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
