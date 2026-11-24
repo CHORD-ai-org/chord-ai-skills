@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a U.S. federal court Claim Construction Order (Markman order) applying the Phillips v. AWH Corp. intrinsic/extrinsic evidence hierarchy to construe disputed patent claim terms. Use when drafting Markman orders, claim construction memoranda, or disputed-term rulings in U.S. patent litigation.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a U.S. federal court Claim Construction Order (Markman order) applying the Phillips v. AWH Corp. intrinsic/extrinsic evidence hierarchy to construe disputed patent claim terms. Use when drafting Markman orders, cl
+2. Start with the upstream step: Patent(s) at issue — full text with claims and specification (col./line numbers)
+3. Continue with: Prosecution history — file wrapper with paper numbers and pages
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/claim-construction-order
 
 ## Verify
 
