@@ -33,7 +33,7 @@ Use when the task matches this source: Use when scoring or auditing vendors: sco
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/vendor-management
+Field: business-operations. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/vendor-management
 
 ## Verify
 
