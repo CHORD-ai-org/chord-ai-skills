@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cr
 
 # Capital Analyzing Cross Border Tax Structuring
 
+## Brief info
+
+Evaluates international tax structures with treaty networks, withholding rates, and permanent establishment risk analysis. Use when structuring cross-border tax, analyzing treaty benefits, or evaluating tax-efficient structuring. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
