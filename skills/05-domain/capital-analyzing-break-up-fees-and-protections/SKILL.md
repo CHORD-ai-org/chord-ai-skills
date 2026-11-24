@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-br
 
 # Capital Analyzing Break Up Fees And Protections
 
+## Brief info
+
+Evaluates deal protection mechanisms including break-up fees, no-shop clauses, matching rights, and force-the-vote provisions. Use when analyzing deal protections, negotiating break fees, or assessing termination provisions. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
