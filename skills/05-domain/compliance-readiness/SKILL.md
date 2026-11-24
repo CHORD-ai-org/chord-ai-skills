@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Compliance and the upstream skill matches the request.
+Use when the task matches this source: Use for /compliance-os:compliance-readiness, or before adding a framework or planning the annual audit calendar.
+
+## Steps
+
+1. Confirm the task matches this source: Use for /compliance-os:compliance-readiness, or before adding a framework or planning the annual audit calendar.
+2. Start with the upstream step: Before adopting a new compliance framework
+3. Continue with: Before annual audit calendar finalization
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/compliance-readiness
 
 ## Verify
 
