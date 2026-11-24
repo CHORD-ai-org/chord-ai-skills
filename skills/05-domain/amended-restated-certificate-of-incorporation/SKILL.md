@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts filing-ready Delaware Amended and Restated Certificates of Incorporation for venture-financing rounds. Converts term-sheet economics and governance terms into a defensible charter document under DGCL 242/245. Trigger when user needs to reauthorize capital structure, designate preferred stock series, set investor protections, or prepare a charter filing for closing.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts filing-ready Delaware Amended and Restated Certificates of Incorporation for venture-financing rounds. Converts term-sheet economics and governance terms into a defensible charter document under DGCL 242/245. Trig
+2. Start with the upstream step: Exact legal name, Delaware formation date, current charter text
+3. Continue with: Board resolution and stockholder approval route (DGCL 242 vs. 245)
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/amended-restated-certificate-of-incorporation
 
 ## Verify
 
