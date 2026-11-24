@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/business-opera
 
 # Procurement Optimizer
 
+## Brief info
+
+Cut spend on software and suppliers: SaaS audit, category spend review, slow purchasing cycles, supplier consolidation. Use whenever the user asks which tools or vendors to cut, where money goes, or why buying takes so long. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
