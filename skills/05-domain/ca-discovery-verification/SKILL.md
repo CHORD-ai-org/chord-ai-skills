@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts California Superior Court discovery verification pages under CCP §§ 2030.250 and 2031.250 with proper CCP § 2015.5 perjury declarations. Trigger when the user needs a verification page for interrogatory or inspection/RPD responses, mentions California discovery verification, party vs. attorney signing, information-and-belief clauses, or fixing unverified responses. CA Superior Court only — not federal.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts California Superior Court discovery verification pages under CCP §§ 2030.250 and 2031.250 with proper CCP § 2015.5 perjury declarations. Trigger when the user needs a verification page for interrogatory or inspect
+2. Start with the upstream step: Gather intake details (see Pre-Draft Intake)
+3. Continue with: Select verification type by discovery device
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/ca-discovery-verification
 
 ## Verify
 
