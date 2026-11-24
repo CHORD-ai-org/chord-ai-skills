@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/ad-fund-agreem
 
 # Legal Ad Fund Agreement
 
+## Brief info
+
+Drafts franchise advertising fund contribution agreements or addenda governing franchisee obligations to a centralized marketing fund. Trigger when drafting ad fund agreements, marketing fund addenda, or franchise contribution agreements involving fund administration, contribution calculations, or financial reporting. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
