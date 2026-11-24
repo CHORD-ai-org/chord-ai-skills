@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/antitrust-inve
 
 # Legal Antitrust Investigation Summary
 
+## Brief info
+
+Drafts privilege-protective, board-ready executive summary memoranda of internal antitrust investigation findings for US federal law. Covers monopolization, vertical restraints, acquisitions, FTC Act Section 5, tech-platform conduct, risk assessment, and remediation. Use when drafting antitrust investigation summaries, board memos on competition risk, or internal compliance investigation reports. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
