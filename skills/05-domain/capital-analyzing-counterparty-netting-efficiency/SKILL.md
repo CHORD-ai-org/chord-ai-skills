@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-co
 
 # Capital Analyzing Counterparty Netting Efficiency
 
+## Brief info
+
+Evaluates netting benefits across derivative portfolios with bilateral vs cleared netting, portfolio compression, and capital savings. Use when analyzing netting efficiency, evaluating compression opportunities, or optimizing counterparty exposure. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
