@@ -8,185 +8,185 @@ Source: diary entry 2026-11-23, category 5.
 
 | Skill | Status | Purpose | Source |
 | --- | --- | --- | --- |
-| 30b6-corporate-rep | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/30b6-corporate-rep |
-| 30b6-deposition | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/30b6-deposition |
-| 510k-premarket-notification | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/510k-premarket-notification |
-| abstract-of-judgment | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/abstract-of-judgment |
-| access-indemnity-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/access-indemnity-agreement |
-| ad-fund-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/ad-fund-agreement |
-| ada-accommodation-complaint | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/ada-accommodation-complaint |
-| ada-failure-to-accommodate-complaint | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/ada-failure-to-accommodate-complaint |
-| adoption-petition | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/adoption-petition |
-| adoption-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/adoption-summary |
-| adr-outcomes-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/adr-outcomes-summary |
-| advance-directive-vs-polst | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/advance-directive-vs-polst |
-| advance-health-care-directive | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/advance-health-care-directive |
-| adversary-proceeding-complaint | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/adversary-proceeding-complaint |
-| adverse-event-reporting-policy | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/adverse-event-reporting-policy |
-| adverse-possession-claim | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/adverse-possession-claim |
-| advisory-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/advisory-summary |
-| alibi-notice | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/alibi-notice |
-| alta-settlement-statement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/alta-settlement-statement |
-| amended-restated-certificate | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/amended-restated-certificate |
-| amended-restated-certificate-of-incorporation | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/amended-restated-certificate-of-incorporation |
-| amicus-brief | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/amicus-brief |
-| amicus-coalition | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/amicus-coalition |
-| amicus-coalition-management | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/amicus-coalition-management |
-| amicus-curiae-brief | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/amicus-curiae-brief |
-| amicus-interest-statement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/amicus-interest-statement |
-| aml-compliance-program | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/aml-compliance-program |
-| animal-law-case-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/animal-law-case-summary |
-| annual-meeting-notice | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/annual-meeting-notice |
-| annual-report-charity-bureau | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/annual-report-charity-bureau |
-| answer-affirmative-defenses | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/answer-affirmative-defenses |
-| answer-to-harassment-complaint | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/answer-to-harassment-complaint |
-| answer-with-invalidity-contentions | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/answer-with-invalidity-contentions |
-| antitrust-investigation-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/antitrust-investigation-summary |
-| api-acceptable-use-policy | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/api-acceptable-use-policy |
-| api-constraints-exhibit | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/api-constraints-exhibit |
-| api-license-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/api-license-agreement |
-| appeal-document-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/appeal-document-summary |
-| appeal-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/appeal-summary |
-| appellant-brief | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/appellant-brief |
-| appellate-formatting | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/appellate-formatting |
-| appellate-formatting-certification | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/appellate-formatting-certification |
-| appellate-mandate | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/appellate-mandate |
-| appellee-response-brief | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/appellee-response-brief |
-| appellees-response-brief | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/appellees-response-brief |
-| area-development-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/area-development-agreement |
-| art-law-summaries | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/art-law-summaries |
-| article-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/article-summary |
-| articles-of-dissolution | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/articles-of-dissolution |
-| articles-of-incorporation | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/articles-of-incorporation |
-| articles-of-incorporation-nonprofit | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/articles-of-incorporation-nonprofit |
-| asbestos-abatement-plan | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/asbestos-abatement-plan |
-| asset-enforcement-report | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/asset-enforcement-report |
-| asset-liability-summaries | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/asset-liability-summaries |
-| asset-purchase-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/asset-purchase-agreement |
-| asset-purchase-loi | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/asset-purchase-loi |
-| assignment-and-assumption-of-leases | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/assignment-and-assumption-of-leases |
-| assignment-assumption | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/assignment-assumption |
-| at-will-employment-offer-letter | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/at-will-employment-offer-letter |
-| atm-equity-distribution-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/atm-equity-distribution-agreement |
-| attorney-representation-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/attorney-representation-agreement |
-| attorneys-fees-motion | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/attorneys-fees-motion |
-| audit-compensation-charter | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/audit-compensation-charter |
-| audit-compensation-committee-charter | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/audit-compensation-committee-charter |
-| audit-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/audit-summary |
-| auth-packet-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/auth-packet-summary |
-| authority-verification | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/authority-verification |
-| aviation-law-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/aviation-law-summary |
-| aviation-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/aviation-summary |
-| awa-compliance-audit | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/awa-compliance-audit |
-| background-check-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/background-check-summary |
-| bad-actor-disqualification-review | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bad-actor-disqualification-review |
-| bad-faith-demand | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bad-faith-demand |
-| bail-hearing-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bail-hearing-summary |
-| bail-reduction-motion | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bail-reduction-motion |
-| bank-account-resolution | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bank-account-resolution |
-| bankruptcy-interest-calculation | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bankruptcy-interest-calculation |
-| bankruptcy-proof-of-claim | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bankruptcy-proof-of-claim |
-| bates-citation-verification | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bates-citation-verification |
-| bill-of-costs-appeal | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bill-of-costs-appeal |
-| bill-of-costs-on-appeal | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bill-of-costs-on-appeal |
-| bill-of-lading | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bill-of-lading |
-| bill-of-sale | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bill-of-sale |
-| bill-of-sale-and-assignment | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bill-of-sale-and-assignment |
-| bill-of-sale-personal-property | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bill-of-sale-personal-property |
-| bill-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bill-summary |
-| billing-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/billing-summary |
-| biotech-patent-summaries | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/biotech-patent-summaries |
-| blue-sky-filings | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/blue-sky-filings |
-| board-committee-charter | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/board-committee-charter |
-| board-meeting-minutes | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/board-meeting-minutes |
-| board-meeting-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/board-meeting-summary |
-| board-minutes | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/board-minutes |
-| board-resolution-dissolution | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/board-resolution-dissolution |
-| body-camera-incident-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/body-camera-incident-summary |
-| boundary-dispute-complaint | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/boundary-dispute-complaint |
-| breach-notification | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/breach-notification |
-| breach-of-purchase-agreement-complaint | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/breach-of-purchase-agreement-complaint |
-| breach-purchase-complaint | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/breach-purchase-complaint |
-| breach-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/breach-summary |
-| broker-dealer-customer-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/broker-dealer-customer-agreement |
-| brownfields-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/brownfields-agreement |
-| bsa-risk-assessment | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bsa-risk-assessment |
-| build-out-allowance-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/build-out-allowance-agreement |
-| bulk-document-extraction-review | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bulk-document-extraction-review |
-| bulk-sales-compliance | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bulk-sales-compliance |
-| bylaw-amendment-resolution | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/bylaw-amendment-resolution |
-| byod-policy | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/byod-policy |
-| c-tpat-security-profile | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/c-tpat-security-profile |
-| ca-discovery-response | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/ca-discovery-response |
-| ca-discovery-verification | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/ca-discovery-verification |
-| ca-privilege-log | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/ca-privilege-log |
-| cafa-notice-of-removal | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/cafa-notice-of-removal |
-| capital-call-notice | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/capital-call-notice |
-| case-briefs | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/case-briefs |
-| case-chronology | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/case-chronology |
-| case-intake-initial-fact-memo | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/case-intake-initial-fact-memo |
-| case-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/case-summary |
-| case-summary-report | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/case-summary-report |
-| case-viability-report | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/case-viability-report |
-| cash-collateral-motion | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/cash-collateral-motion |
-| cbp-binding-ruling | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/cbp-binding-ruling |
-| ccpa-policy | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/ccpa-policy |
-| cd-tolerance-reference | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/cd-tolerance-reference |
-| cda-certified-claim | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/cda-certified-claim |
-| cert-petition | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/cert-petition |
-| certificate-of-incumbency | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/certificate-of-incumbency |
-| certificate-of-interested-persons | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/certificate-of-interested-persons |
-| certificate-of-origin | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/certificate-of-origin |
-| certificate-of-service | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/certificate-of-service |
-| certificate-of-trust | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/certificate-of-trust |
-| certificate-of-withdrawal-foreign-corp | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/certificate-of-withdrawal-foreign-corp |
-| change-in-control-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/change-in-control-agreement |
-| chapter-11-reorg-plan | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/chapter-11-reorg-plan |
-| charitable-remainder-trust | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/charitable-remainder-trust |
-| charitable-solicitation-registration | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/charitable-solicitation-registration |
-| charity-annual-report | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/charity-annual-report |
-| charity-filing-thresholds | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/charity-filing-thresholds |
-| chart-audit-protocol | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/chart-audit-protocol |
-| child-support-worksheet | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/child-support-worksheet |
-| ciia-agreement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/ciia-agreement |
-| cip-policy | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/cip-policy |
-| citation-bluebook | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/citation-bluebook |
-| claim-construction-chart | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/claim-construction-chart |
-| claim-construction-order | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/claim-construction-order |
-| class-action-claim-form | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-action-claim-form |
-| class-action-complaint | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-action-complaint |
-| class-action-fairness-hearing | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-action-fairness-hearing |
-| class-action-notice | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-action-notice |
-| class-action-settlement | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-action-settlement |
-| class-action-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-action-summary |
-| class-certification-motion | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-certification-motion |
-| class-certification-order | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-certification-order |
-| class-claim-form | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-claim-form |
-| class-notice-plan | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-notice-plan |
-| class-settlement-preliminary-approval | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/class-settlement-preliminary-approval |
-| client-advisory | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/client-advisory |
-| client-advisory-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/client-advisory-summary |
-| client-friendly-tone | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/client-friendly-tone |
-| client-intake-summary | referenced | Law pointer | https://github.com/casemark/skills/tree/main/skills/legal/client-intake-summary |
-| business-growth-skills | referenced | Business growth pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/business-growth-skills |
-| contract-and-proposal-writer | referenced | Business growth pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/contract-and-proposal-writer |
-| customer-success-manager | referenced | Business growth pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/customer-success-manager |
-| revenue-operations | referenced | Business growth pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/revenue-operations |
-| sales-engineer | referenced | Business growth pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/sales-engineer |
-| support-ops | referenced | Business growth pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/support-ops |
-| business-operations-skills | referenced | Business operations pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/business-operations-skills |
-| capacity-planner | referenced | Business operations pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/capacity-planner |
-| internal-comms | referenced | Business operations pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/internal-comms |
-| knowledge-ops | referenced | Business operations pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/knowledge-ops |
-| process-mapper | referenced | Business operations pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/process-mapper |
-| procurement-optimizer | referenced | Business operations pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/procurement-optimizer |
-| vendor-management | referenced | Business operations pointer | https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/vendor-management |
-| ai-act-readiness | referenced | Compliance pointer | https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/ai-act-readiness |
-| aims-audit | referenced | Compliance pointer | https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/aims-audit |
-| compliance-os | referenced | Compliance pointer | https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/compliance-os |
-| compliance-readiness | referenced | Compliance pointer | https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/compliance-readiness |
-| fda-qsr-audit-prep | referenced | Compliance pointer | https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/fda-qsr-audit-prep |
-| gdpr-audit-prep | referenced | Compliance pointer | https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/gdpr-audit-prep |
-| iso13485-audit-prep | referenced | Compliance pointer | https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/iso13485-audit-prep |
+| [legal-30b6-corporate-rep](legal-30b6-corporate-rep/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/30b6-corporate-rep) |
+| [legal-30b6-deposition](legal-30b6-deposition/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/30b6-deposition) |
+| [legal-510k-premarket-notification](legal-510k-premarket-notification/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/510k-premarket-notification) |
+| [legal-abstract-of-judgment](legal-abstract-of-judgment/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/abstract-of-judgment) |
+| [legal-access-indemnity-agreement](legal-access-indemnity-agreement/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/access-indemnity-agreement) |
+| [legal-ad-fund-agreement](legal-ad-fund-agreement/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/ad-fund-agreement) |
+| [legal-ada-accommodation-complaint](legal-ada-accommodation-complaint/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/ada-accommodation-complaint) |
+| [legal-ada-failure-to-accommodate-complaint](legal-ada-failure-to-accommodate-complaint/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/ada-failure-to-accommodate-complaint) |
+| [legal-adoption-petition](legal-adoption-petition/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/adoption-petition) |
+| [legal-adoption-summary](legal-adoption-summary/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/adoption-summary) |
+| [legal-adr-outcomes-summary](legal-adr-outcomes-summary/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/adr-outcomes-summary) |
+| [legal-advance-directive-vs-polst](legal-advance-directive-vs-polst/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/advance-directive-vs-polst) |
+| [legal-advance-health-care-directive](legal-advance-health-care-directive/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/advance-health-care-directive) |
+| [legal-adversary-proceeding-complaint](legal-adversary-proceeding-complaint/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/adversary-proceeding-complaint) |
+| [legal-adverse-event-reporting-policy](legal-adverse-event-reporting-policy/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/adverse-event-reporting-policy) |
+| [legal-adverse-possession-claim](legal-adverse-possession-claim/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/adverse-possession-claim) |
+| [legal-advisory-summary](legal-advisory-summary/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/advisory-summary) |
+| [legal-alibi-notice](legal-alibi-notice/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/alibi-notice) |
+| [legal-alta-settlement-statement](legal-alta-settlement-statement/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/alta-settlement-statement) |
+| [legal-amended-restated-certificate](legal-amended-restated-certificate/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/amended-restated-certificate) |
+| [legal-amended-restated-certificate-of-incorporation](legal-amended-restated-certificate-of-incorporation/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/amended-restated-certificate-of-incorporation) |
+| [legal-amicus-brief](legal-amicus-brief/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/amicus-brief) |
+| [legal-amicus-coalition](legal-amicus-coalition/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/amicus-coalition) |
+| [legal-amicus-coalition-management](legal-amicus-coalition-management/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/amicus-coalition-management) |
+| [legal-amicus-curiae-brief](legal-amicus-curiae-brief/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/amicus-curiae-brief) |
+| [legal-amicus-interest-statement](legal-amicus-interest-statement/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/amicus-interest-statement) |
+| [legal-aml-compliance-program](legal-aml-compliance-program/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/aml-compliance-program) |
+| [legal-animal-law-case-summary](legal-animal-law-case-summary/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/animal-law-case-summary) |
+| [legal-annual-meeting-notice](legal-annual-meeting-notice/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/annual-meeting-notice) |
+| [legal-annual-report-charity-bureau](legal-annual-report-charity-bureau/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/annual-report-charity-bureau) |
+| [legal-answer-affirmative-defenses](legal-answer-affirmative-defenses/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/answer-affirmative-defenses) |
+| [legal-answer-to-harassment-complaint](legal-answer-to-harassment-complaint/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/answer-to-harassment-complaint) |
+| [legal-answer-with-invalidity-contentions](legal-answer-with-invalidity-contentions/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/answer-with-invalidity-contentions) |
+| [legal-antitrust-investigation-summary](legal-antitrust-investigation-summary/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/antitrust-investigation-summary) |
+| [legal-api-acceptable-use-policy](legal-api-acceptable-use-policy/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/api-acceptable-use-policy) |
+| [legal-api-constraints-exhibit](legal-api-constraints-exhibit/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/api-constraints-exhibit) |
+| [legal-api-license-agreement](legal-api-license-agreement/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/api-license-agreement) |
+| [legal-appeal-document-summary](legal-appeal-document-summary/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/appeal-document-summary) |
+| [legal-appeal-summary](legal-appeal-summary/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/appeal-summary) |
+| [legal-appellant-brief](legal-appellant-brief/SKILL.md) | referenced | Law pointer | [source](https://github.com/casemark/skills/tree/main/skills/legal/appellant-brief) |
+| [med-abstracting-clinical-documentation](med-abstracting-clinical-documentation/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/abstracting-clinical-documentation) |
+| [med-analyzing-clinical-data-warehouses](med-analyzing-clinical-data-warehouses/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/analyzing-clinical-data-warehouses) |
+| [med-analyzing-clinical-trial-data](med-analyzing-clinical-trial-data/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/analyzing-clinical-trial-data) |
+| [med-analyzing-epidemiological-data](med-analyzing-epidemiological-data/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/analyzing-epidemiological-data) |
+| [med-analyzing-flow-cytometry](med-analyzing-flow-cytometry/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/analyzing-flow-cytometry) |
+| [med-analyzing-pharmacovigilance-data](med-analyzing-pharmacovigilance-data/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/analyzing-pharmacovigilance-data) |
+| [med-analyzing-social-determinants-of-health](med-analyzing-social-determinants-of-health/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/analyzing-social-determinants-of-health) |
+| [med-analyzing-vital-statistics](med-analyzing-vital-statistics/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/analyzing-vital-statistics) |
+| [med-assessing-community-health-needs](med-assessing-community-health-needs/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/assessing-community-health-needs) |
+| [med-assessing-drug-interactions](med-assessing-drug-interactions/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/assessing-drug-interactions) |
+| [med-assessing-suicide-risk](med-assessing-suicide-risk/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/assessing-suicide-risk) |
+| [med-auditing-coding-accuracy](med-auditing-coding-accuracy/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/auditing-coding-accuracy) |
+| [med-auditing-hipaa-compliance](med-auditing-hipaa-compliance/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/auditing-hipaa-compliance) |
+| [med-calculating-emergency-risk-scores](med-calculating-emergency-risk-scores/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/calculating-emergency-risk-scores) |
+| [med-calculating-performance-status](med-calculating-performance-status/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/calculating-performance-status) |
+| [med-classifying-imaging-findings](med-classifying-imaging-findings/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/classifying-imaging-findings) |
+| [med-coding-anesthesia-services](med-coding-anesthesia-services/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/coding-anesthesia-services) |
+| [med-coding-behavioral-health-services](med-coding-behavioral-health-services/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/coding-behavioral-health-services) |
+| [med-coding-emergency-services](med-coding-emergency-services/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/coding-emergency-services) |
+| [med-coding-laboratory-services](med-coding-laboratory-services/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/coding-laboratory-services) |
+| [med-coding-medical-encounters](med-coding-medical-encounters/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/coding-medical-encounters) |
+| [med-coding-radiology-services](med-coding-radiology-services/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/coding-radiology-services) |
+| [med-coding-surgical-procedures](med-coding-surgical-procedures/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/coding-surgical-procedures) |
+| [med-coding-telehealth-services](med-coding-telehealth-services/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/coding-telehealth-services) |
+| [med-conducting-annual-wellness-visits](med-conducting-annual-wellness-visits/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-annual-wellness-visits) |
+| [med-conducting-anti-kickback-analysis](med-conducting-anti-kickback-analysis/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-anti-kickback-analysis) |
+| [med-conducting-antimicrobial-stewardship](med-conducting-antimicrobial-stewardship/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-antimicrobial-stewardship) |
+| [med-conducting-capacity-evaluations](med-conducting-capacity-evaluations/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-capacity-evaluations) |
+| [med-conducting-cognitive-assessments](med-conducting-cognitive-assessments/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-cognitive-assessments) |
+| [med-conducting-daily-rounds](med-conducting-daily-rounds/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-daily-rounds) |
+| [med-conducting-dental-examinations](med-conducting-dental-examinations/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-dental-examinations) |
+| [med-conducting-discharge-planning-nursing](med-conducting-discharge-planning-nursing/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-discharge-planning-nursing) |
+| [med-conducting-disease-surveillance](med-conducting-disease-surveillance/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-disease-surveillance) |
+| [med-conducting-false-claims-analysis](med-conducting-false-claims-analysis/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-false-claims-analysis) |
+| [med-conducting-forensic-evaluations](med-conducting-forensic-evaluations/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-forensic-evaluations) |
+| [med-conducting-functional-assessments](med-conducting-functional-assessments/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-functional-assessments) |
+| [med-conducting-health-economics-research](med-conducting-health-economics-research/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-health-economics-research) |
+| [med-conducting-health-equity-analyses](med-conducting-health-equity-analyses/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-health-equity-analyses) |
+| [med-conducting-health-impact-assessments](med-conducting-health-impact-assessments/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-health-impact-assessments) |
+| [med-conducting-literature-reviews-systematic](med-conducting-literature-reviews-systematic/SKILL.md) | referenced | Medicine pointer | [source](https://github.com/casemark/skills/tree/main/skills/med/conducting-literature-reviews-systematic) |
+| [finance-analyzing-add-on-acquisitions](finance-analyzing-add-on-acquisitions/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-add-on-acquisitions) |
+| [finance-analyzing-agency-mortgage-bonds](finance-analyzing-agency-mortgage-bonds/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-agency-mortgage-bonds) |
+| [finance-analyzing-ai-in-financial-services](finance-analyzing-ai-in-financial-services/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-ai-in-financial-services) |
+| [finance-analyzing-alternative-investments](finance-analyzing-alternative-investments/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-alternative-investments) |
+| [finance-analyzing-annuity-products](finance-analyzing-annuity-products/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-annuity-products) |
+| [finance-analyzing-banking-system-health](finance-analyzing-banking-system-health/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-banking-system-health) |
+| [finance-analyzing-biodiversity-risk](finance-analyzing-biodiversity-risk/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-biodiversity-risk) |
+| [finance-analyzing-blockchain-applications](finance-analyzing-blockchain-applications/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-blockchain-applications) |
+| [finance-analyzing-bond-structures](finance-analyzing-bond-structures/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-bond-structures) |
+| [finance-analyzing-business-cycle-positioning](finance-analyzing-business-cycle-positioning/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-business-cycle-positioning) |
+| [finance-analyzing-buy-now-pay-later](finance-analyzing-buy-now-pay-later/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-buy-now-pay-later) |
+| [finance-analyzing-cap-rates](finance-analyzing-cap-rates/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-cap-rates) |
+| [finance-analyzing-capital-allocation](finance-analyzing-capital-allocation/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-capital-allocation) |
+| [finance-analyzing-carbon-footprints](finance-analyzing-carbon-footprints/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-carbon-footprints) |
+| [finance-analyzing-catastrophe-risk](finance-analyzing-catastrophe-risk/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-catastrophe-risk) |
+| [finance-analyzing-central-bank-balance-sheets](finance-analyzing-central-bank-balance-sheets/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-central-bank-balance-sheets) |
+| [finance-analyzing-commodity-derivatives](finance-analyzing-commodity-derivatives/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-commodity-derivatives) |
+| [finance-analyzing-commodity-markets](finance-analyzing-commodity-markets/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-commodity-markets) |
+| [finance-analyzing-comparable-transactions](finance-analyzing-comparable-transactions/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-comparable-transactions) |
+| [finance-analyzing-compensation-tax](finance-analyzing-compensation-tax/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-compensation-tax) |
+| [finance-analyzing-competitive-dynamics](finance-analyzing-competitive-dynamics/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-competitive-dynamics) |
+| [finance-analyzing-continuation-vehicles](finance-analyzing-continuation-vehicles/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-continuation-vehicles) |
+| [finance-analyzing-convertible-bonds](finance-analyzing-convertible-bonds/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-convertible-bonds) |
+| [finance-analyzing-corporate-restructuring](finance-analyzing-corporate-restructuring/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-corporate-restructuring) |
+| [finance-analyzing-corporate-tax-structures](finance-analyzing-corporate-tax-structures/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-corporate-tax-structures) |
+| [finance-analyzing-correlation-trading](finance-analyzing-correlation-trading/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-correlation-trading) |
+| [finance-analyzing-covenant-compliance](finance-analyzing-covenant-compliance/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-covenant-compliance) |
+| [finance-analyzing-credit-default-swaps](finance-analyzing-credit-default-swaps/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-credit-default-swaps) |
+| [finance-analyzing-credit-ratings](finance-analyzing-credit-ratings/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-credit-ratings) |
+| [finance-analyzing-cross-border-transactions](finance-analyzing-cross-border-transactions/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-cross-border-transactions) |
+| [finance-analyzing-cryptocurrency-tax](finance-analyzing-cryptocurrency-tax/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-cryptocurrency-tax) |
+| [finance-analyzing-currency-exposure](finance-analyzing-currency-exposure/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-currency-exposure) |
+| [finance-analyzing-cyber-insurance](finance-analyzing-cyber-insurance/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-cyber-insurance) |
+| [finance-analyzing-deal-financing-alternatives](finance-analyzing-deal-financing-alternatives/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-deal-financing-alternatives) |
+| [finance-analyzing-demographic-trends](finance-analyzing-demographic-trends/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-demographic-trends) |
+| [finance-analyzing-development-feasibility](finance-analyzing-development-feasibility/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-development-feasibility) |
+| [finance-analyzing-digital-lending-platforms](finance-analyzing-digital-lending-platforms/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-digital-lending-platforms) |
+| [finance-analyzing-earnings-quality](finance-analyzing-earnings-quality/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-earnings-quality) |
+| [finance-analyzing-economic-indicators](finance-analyzing-economic-indicators/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-economic-indicators) |
+| [finance-analyzing-embedded-finance](finance-analyzing-embedded-finance/SKILL.md) | referenced | Finance / insurance pointer | [source](https://github.com/casemark/skills/tree/main/skills/finance/analyzing-embedded-finance) |
+| [capital-analyzing-activist-campaign-strategies](capital-analyzing-activist-campaign-strategies/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-activist-campaign-strategies) |
+| [capital-analyzing-activist-investor-vulnerabilities](capital-analyzing-activist-investor-vulnerabilities/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-activist-investor-vulnerabilities) |
+| [capital-analyzing-add-on-acquisition-candidates](capital-analyzing-add-on-acquisition-candidates/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-add-on-acquisition-candidates) |
+| [capital-analyzing-alpha-signal-decay](capital-analyzing-alpha-signal-decay/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-alpha-signal-decay) |
+| [capital-analyzing-alternative-data-signals](capital-analyzing-alternative-data-signals/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-alternative-data-signals) |
+| [capital-analyzing-anti-trust-risk](capital-analyzing-anti-trust-risk/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-anti-trust-risk) |
+| [capital-analyzing-break-up-fees-and-protections](capital-analyzing-break-up-fees-and-protections/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-break-up-fees-and-protections) |
+| [capital-analyzing-burn-multiple-efficiency](capital-analyzing-burn-multiple-efficiency/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-burn-multiple-efficiency) |
+| [capital-analyzing-capital-control-environments](capital-analyzing-capital-control-environments/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-capital-control-environments) |
+| [capital-analyzing-capital-structure-optimization](capital-analyzing-capital-structure-optimization/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-capital-structure-optimization) |
+| [capital-analyzing-claims-trading-dynamics](capital-analyzing-claims-trading-dynamics/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-claims-trading-dynamics) |
+| [capital-analyzing-commitment-pacing-models](capital-analyzing-commitment-pacing-models/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-commitment-pacing-models) |
+| [capital-analyzing-commodity-derivative-structures](capital-analyzing-commodity-derivative-structures/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-commodity-derivative-structures) |
+| [capital-analyzing-commodity-price-risk](capital-analyzing-commodity-price-risk/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-commodity-price-risk) |
+| [capital-analyzing-competitive-landscapes](capital-analyzing-competitive-landscapes/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-competitive-landscapes) |
+| [capital-analyzing-competitive-moat-durability](capital-analyzing-competitive-moat-durability/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-competitive-moat-durability) |
+| [capital-analyzing-conglomerate-discount-dynamics](capital-analyzing-conglomerate-discount-dynamics/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-conglomerate-discount-dynamics) |
+| [capital-analyzing-continuation-fund-structures](capital-analyzing-continuation-fund-structures/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-continuation-fund-structures) |
+| [capital-analyzing-convertible-instrument-terms](capital-analyzing-convertible-instrument-terms/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-convertible-instrument-terms) |
+| [capital-analyzing-cornerstone-investor-structures](capital-analyzing-cornerstone-investor-structures/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cornerstone-investor-structures) |
+| [capital-analyzing-corporate-governance-catalysts](capital-analyzing-corporate-governance-catalysts/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-corporate-governance-catalysts) |
+| [capital-analyzing-corporate-governance-effectiveness](capital-analyzing-corporate-governance-effectiveness/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-corporate-governance-effectiveness) |
+| [capital-analyzing-counterparty-netting-efficiency](capital-analyzing-counterparty-netting-efficiency/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-counterparty-netting-efficiency) |
+| [capital-analyzing-covenant-packages](capital-analyzing-covenant-packages/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-covenant-packages) |
+| [capital-analyzing-credit-agreement-terms](capital-analyzing-credit-agreement-terms/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-credit-agreement-terms) |
+| [capital-analyzing-credit-derivative-structures](capital-analyzing-credit-derivative-structures/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-credit-derivative-structures) |
+| [capital-analyzing-credit-facility-amendments](capital-analyzing-credit-facility-amendments/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-credit-facility-amendments) |
+| [capital-analyzing-credit-fund-performance](capital-analyzing-credit-fund-performance/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-credit-fund-performance) |
+| [capital-analyzing-credit-rating-advisory](capital-analyzing-credit-rating-advisory/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-credit-rating-advisory) |
+| [capital-analyzing-cross-asset-correlation-dynamics](capital-analyzing-cross-asset-correlation-dynamics/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cross-asset-correlation-dynamics) |
+| [capital-analyzing-cross-border-deal-structures](capital-analyzing-cross-border-deal-structures/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cross-border-deal-structures) |
+| [capital-analyzing-cross-border-insolvency](capital-analyzing-cross-border-insolvency/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cross-border-insolvency) |
+| [capital-analyzing-cross-border-tax-structuring](capital-analyzing-cross-border-tax-structuring/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cross-border-tax-structuring) |
+| [capital-analyzing-crowding-and-factor-valuations](capital-analyzing-crowding-and-factor-valuations/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-crowding-and-factor-valuations) |
+| [capital-analyzing-customer-cohort-economics](capital-analyzing-customer-cohort-economics/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-customer-cohort-economics) |
+| [capital-analyzing-dark-pool-and-alternative-venues](capital-analyzing-dark-pool-and-alternative-venues/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-dark-pool-and-alternative-venues) |
+| [capital-analyzing-debt-capacity-and-structure](capital-analyzing-debt-capacity-and-structure/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-debt-capacity-and-structure) |
+| [capital-analyzing-decommissioning-obligations](capital-analyzing-decommissioning-obligations/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-decommissioning-obligations) |
+| [capital-analyzing-digital-infrastructure-assets](capital-analyzing-digital-infrastructure-assets/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-digital-infrastructure-assets) |
+| [capital-analyzing-distressed-credit-situations](capital-analyzing-distressed-credit-situations/SKILL.md) | referenced | Capital markets pointer | [source](https://github.com/casemark/skills/tree/main/skills/capital/analyzing-distressed-credit-situations) |
+| [ai-act-readiness](ai-act-readiness/SKILL.md) | referenced | compliance-os pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/ai-act-readiness) |
+| [aims-audit](aims-audit/SKILL.md) | referenced | compliance-os pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/aims-audit) |
+| [business-growth-skills](business-growth-skills/SKILL.md) | referenced | business-growth pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/business-growth-skills) |
+| [business-operations-skills](business-operations-skills/SKILL.md) | referenced | business-operations pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/business-operations-skills) |
+| [capacity-planner](capacity-planner/SKILL.md) | referenced | business-operations pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/capacity-planner) |
+| [compliance-os](compliance-os/SKILL.md) | referenced | compliance-os pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/compliance-os) |
+| [compliance-readiness](compliance-readiness/SKILL.md) | referenced | compliance-os pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/compliance-readiness) |
+| [contract-and-proposal-writer](contract-and-proposal-writer/SKILL.md) | referenced | business-growth pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/contract-and-proposal-writer) |
+| [customer-success-manager](customer-success-manager/SKILL.md) | referenced | business-growth pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/customer-success-manager) |
+| [fda-qsr-audit-prep](fda-qsr-audit-prep/SKILL.md) | referenced | compliance-os pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/fda-qsr-audit-prep) |
+| [gdpr-audit-prep](gdpr-audit-prep/SKILL.md) | referenced | compliance-os pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/gdpr-audit-prep) |
+| [internal-comms](internal-comms/SKILL.md) | referenced | business-operations pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/internal-comms) |
+| [iso13485-audit-prep](iso13485-audit-prep/SKILL.md) | referenced | compliance-os pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/iso13485-audit-prep) |
+| [knowledge-ops](knowledge-ops/SKILL.md) | referenced | business-operations pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/knowledge-ops) |
+| [process-mapper](process-mapper/SKILL.md) | referenced | business-operations pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/process-mapper) |
+| [procurement-optimizer](procurement-optimizer/SKILL.md) | referenced | business-operations pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/procurement-optimizer) |
+| [revenue-operations](revenue-operations/SKILL.md) | referenced | business-growth pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/revenue-operations) |
+| [sales-engineer](sales-engineer/SKILL.md) | referenced | business-growth pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/sales-engineer) |
+| [support-ops](support-ops/SKILL.md) | referenced | business-growth pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/support-ops) |
+| [vendor-management](vendor-management/SKILL.md) | referenced | business-operations pointer | [source](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/vendor-management) |
 
 To add: create `<skill-id>/SKILL.md`. See [root README](../../README.md) for fields.
