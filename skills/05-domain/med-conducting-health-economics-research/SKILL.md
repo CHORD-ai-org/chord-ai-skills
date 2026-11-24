@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-healt
 
 # Med Conducting Health Economics Research
 
+## Brief info
+
+Structures cost-effectiveness and health economic analyses with QALY calculations and model validation. Use when conducting health economics research, calculating QALYs, or building economic models. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
