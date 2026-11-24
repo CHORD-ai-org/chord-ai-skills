@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/advisory-summa
 
 # Legal Advisory Summary
 
+## Brief info
+
+Drafts U.S. regulatory client advisory summaries translating legal developments into actionable risk and compliance guidance. Use when a client needs a proactive memo, client alert, or legal-update brief for a new law, case, rulemaking, agency guidance, or pending reform. Trigger on requests for \"client advisory,\" \"regulatory update,\" \"legal alert,\" \"compliance briefing,\" \"new law summary,\" or \"quarterly advisory. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
