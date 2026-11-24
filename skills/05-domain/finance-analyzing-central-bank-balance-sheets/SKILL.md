@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-ce
 
 # Finance Analyzing Central Bank Balance Sheets
 
+## Brief info
+
+Structures central bank balance sheet analysis with QE/QT impact assessment and reserve management. Use when analyzing central bank operations, evaluating QE effects, or tracking reserve management. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
