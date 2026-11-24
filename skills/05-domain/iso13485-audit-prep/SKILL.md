@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/
 
 # Iso13485 Audit Prep
 
+## Brief info
+
+Use for /compliance-os:iso13485-audit-prep, or before an ISO 13485 internal audit or DHF closure. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
