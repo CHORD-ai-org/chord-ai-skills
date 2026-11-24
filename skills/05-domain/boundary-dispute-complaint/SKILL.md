@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a U.S. state-court complaint to establish the true boundary line between adjoining properties, with optional trespass/encroachment claims. Trigger when a user needs to initiate litigation over conflicting property descriptions, ambiguous deed language, or unauthorized encroachments by an adjoining landowner.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a U.S. state-court complaint to establish the true boundary line between adjoining properties, with optional trespass/encroachment claims. Trigger when a user needs to initiate litigation over conflicting property
+2. Start with the upstream step: Plaintiff's deed — legal description (metes-and-bounds, lot/block, or recorded plat)
+3. Continue with: Defendant's deed — adjoining parcel legal description
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/boundary-dispute-complaint
 
 ## Verify
 
