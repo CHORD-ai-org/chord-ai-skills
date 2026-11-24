@@ -33,7 +33,7 @@ Use when the task matches this source: Use when reviewing customer accounts for 
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/customer-success-manager
+Field: business-growth. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/customer-success-manager
 
 ## Verify
 
