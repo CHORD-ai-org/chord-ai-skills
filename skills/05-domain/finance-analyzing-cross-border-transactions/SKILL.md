@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-cr
 
 # Finance Analyzing Cross Border Transactions
 
+## Brief info
+
+Evaluates cross-border M&A considerations including currency, tax, regulatory, and cultural factors. Use when analyzing international deals, assessing cross-border risks, or structuring multinational transactions. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
