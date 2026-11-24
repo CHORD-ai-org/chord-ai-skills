@@ -33,7 +33,7 @@ Use when the task matches this source: Check sales pipeline and forecasts: pipel
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/revenue-operations
+Field: business-growth. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/revenue-operations
 
 ## Verify
 
