@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-co
 
 # Finance Analyzing Commodity Markets
 
+## Brief info
+
+Structures commodity market analysis with supply/demand balances, inventory dynamics, and price driver attribution. Use when analyzing commodities, evaluating supply/demand, or forecasting commodity prices. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
