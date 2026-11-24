@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/auditing-hipaa-c
 
 # Med Auditing Hipaa Compliance
 
+## Brief info
+
+Conducts HIPAA compliance assessments with Privacy Rule, Security Rule, and Breach Notification analysis. Use when auditing HIPAA compliance, assessing privacy practices, or reviewing security controls. Incident-level breach determinations, risk assessments and notice clocks go to managing-privacy-breach-response. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
