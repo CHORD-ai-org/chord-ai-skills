@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-daily
 
 # Med Conducting Daily Rounds
 
+## Brief info
+
+Structures systematic rounding documentation with overnight events, assessment, and plan updates. Use when documenting daily rounds, updating inpatient plans, or preparing rounding notes. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
