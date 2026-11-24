@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cr
 
 # Capital Analyzing Credit Fund Performance
 
+## Brief info
+
+Evaluates credit fund returns with yield attribution, mark-to-market dynamics, and performance comparison across credit strategies. Use when analyzing credit fund performance, decomposing returns, or benchmarking credit strategies. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
