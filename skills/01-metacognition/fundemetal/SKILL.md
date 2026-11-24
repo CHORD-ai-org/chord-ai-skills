@@ -12,6 +12,11 @@ source: https://github.com/zbbsdsb/Fundemetal
 
 # Fundemetal
 
+## Brief info
+
+Index of 24 Fundemetal cognitive protocols for stress-testing decisions and plans. Input: a decision, plan, or claim to stress-test. Output: constraints, trade-offs, falsifiable claims. Caveat: output is generic agreement, or no evidence gate.
+
+
 Pointer to 24 cognitive protocols. Use this as an index. Do not copy the whole upstream repository into this repo.
 
 ## Trigger
