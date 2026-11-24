@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Business operations and the upstream skill matches the request.
+Use when the task matches this source: Cut spend on software and suppliers: SaaS audit, category spend review, slow purchasing cycles, supplier consolidation. Use whenever the user asks which tools or vendors to cut, where money goes, or why buying takes so long.
+
+## Steps
+
+1. Confirm the task matches this source: Cut spend on software and suppliers: SaaS audit, category spend review, slow purchasing cycles, supplier consolidation. Use whenever the user asks which tools or vendors to cut, where money goes, or why buying takes so l
+2. Start with the upstream step: Software spend up 40% YoY with no single owner who can name the top growth categories.
+3. Continue with: 3 monitoring tools, 2 expense platforms, 4 email-marketing tools — duplicate-function clusters that nobody consolidated because no one had the data to defend the recommendation.
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/procurement-optimizer
 
 ## Verify
 
