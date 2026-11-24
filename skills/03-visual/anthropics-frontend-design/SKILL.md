@@ -12,6 +12,11 @@ source: https://github.com/anthropics/skills/tree/main/skills/frontend-design
 
 # Anthropics Frontend Design
 
+## Brief info
+
+Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one, with anti-generic design rules. Input: task or request that matches the upstream skill. Output: procedure and checkable result. Caveat: the skill is used outside its trigger or the source is not cited.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
