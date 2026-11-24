@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/calculating-emer
 
 # Med Calculating Emergency Risk Scores
 
+## Brief info
+
+Computes validated risk scores (HEART, PERC, Wells, Ottawa, CURB-65) from clinical data. Use when calculating clinical decision scores, risk-stratifying ED patients, or applying clinical prediction rules. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
