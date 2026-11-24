@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/analyzing-social
 
 # Med Analyzing Social Determinants Of Health
 
+## Brief info
+
+Maps social determinants affecting health outcomes with intervention strategy development. Use when analyzing SDOH, mapping community resources, or designing social health interventions. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
