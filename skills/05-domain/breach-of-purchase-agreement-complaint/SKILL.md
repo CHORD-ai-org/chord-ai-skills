@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a filing-ready U.S. complaint for breach of a purchase agreement. Trigger when the user requests a breach-of-contract complaint, forum-selection analysis, or remedy package for a real-estate or asset purchase dispute.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a filing-ready U.S. complaint for breach of a purchase agreement. Trigger when the user requests a breach-of-contract complaint, forum-selection analysis, or remedy package for a real-estate or asset purchase disp
+2. Start with the upstream step: Executed agreement — including amendments, riders, addenda, notices, cure letters, and payment records.
+3. Continue with: Party data — legal names, entity types/formation states, addresses, registered agents.
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/breach-of-purchase-agreement-complaint
 
 ## Verify
 
