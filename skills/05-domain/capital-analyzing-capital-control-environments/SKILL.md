@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-ca
 
 # Capital Analyzing Capital Control Environments
 
+## Brief info
+
+Evaluates capital control regimes with repatriation restrictions, investment caps, and regulatory approval requirements. Use when assessing capital controls, evaluating repatriation risk, or analyzing investment restrictions. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
