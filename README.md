@@ -6,6 +6,7 @@ A collection of Skills for CHORD AI ORG, built for complex tasks.
 Website: https://chord-ai-org.github.io/
 Categories from: [from the start.md](<from the start.md>) (diary entry, 2026-11-23)
 Research index: [research/SOURCES.md](research/SOURCES.md)
+Documentation: [docs/README.md](docs/README.md)
 Master plan: [PLAN.md](PLAN.md)
 Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
 Expert-field candidates: [research/EXPERT_FIELDS.md](research/EXPERT_FIELDS.md)
