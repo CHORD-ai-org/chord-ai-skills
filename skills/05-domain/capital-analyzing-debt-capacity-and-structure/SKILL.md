@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-de
 
 # Capital Analyzing Debt Capacity And Structure
 
+## Brief info
+
+Evaluates target leverage capacity with cash flow coverage, stress testing, and optimal debt structure across term loans, revolver, and mezzanine. Use when analyzing debt capacity, structuring acquisition financing, or stress testing leverage. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
