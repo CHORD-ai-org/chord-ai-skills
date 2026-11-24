@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a federal or state court order certifying a class action under Rule 23. Triggers when formalizing class certification after a granted motion, drafting certification orders, or preparing rulings for appellate review. Covers Rule 23(a) findings, Rule 23(b) analysis, class definition, counsel appointment under Rule 23(g), and notice provisions.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a federal or state court order certifying a class action under Rule 23. Triggers when formalizing class certification after a granted motion, drafting certification orders, or preparing rulings for appellate revie
+2. Start with the upstream step: Granted certification motion — docket number, filing date, briefing history
+3. Continue with: Class definition — proposed class, any subclasses, class period dates
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/class-certification-order
 
 ## Verify
 
