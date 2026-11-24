@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/answer-to-hara
 
 # Legal Answer To Harassment Complaint
 
+## Brief info
+
+Drafts a defendant employer's Answer to a workplace harassment complaint. Responds paragraph-by-paragraph to allegations, asserts Faragher-Ellerth and other affirmative defenses, and follows federal/state civil procedure rules. Use when defending employers at the pleadings phase against Title VII, state FEHA, or other employment harassment claims. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
