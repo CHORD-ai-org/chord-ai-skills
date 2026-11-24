@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/assessing-commun
 
 # Med Assessing Community Health Needs
 
+## Brief info
+
+Conducts community health needs assessment with data collection, analysis, and priority identification. Use when assessing community health, prioritizing health needs, or planning health interventions. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
