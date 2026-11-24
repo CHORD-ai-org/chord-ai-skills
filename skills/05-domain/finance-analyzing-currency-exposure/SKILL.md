@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-cu
 
 # Finance Analyzing Currency Exposure
 
+## Brief info
+
+Evaluates and manages portfolio currency risk with hedging strategy analysis and cost assessment. Use when analyzing FX exposure, planning currency hedges, or assessing hedging costs. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
