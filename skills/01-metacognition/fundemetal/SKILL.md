@@ -12,14 +12,26 @@ source: https://github.com/zbbsdsb/Fundemetal
 
 # Fundemetal
 
-A pointer to 24 cognitive protocols. Use this as an index. Do not copy the whole upstream repository into this repo.
+Pointer to 24 cognitive protocols. Use this as an index. Do not copy the whole upstream repository into this repo.
 
-## When to use
+## Trigger
 
-- A decision is already made and needs stress-testing.
-- A plan looks plausible but has no falsifiable claims.
-- The answer is agreement without evidence.
-- A vision needs to become an observable execution path.
+Use when a decision is already made and needs stress-testing, a plan looks plausible but has no falsifiable claims, the answer is agreement without evidence, or a vision needs to become an observable execution path.
+
+## Steps
+
+1. Pick the smallest protocol that matches the failure mode.
+2. State the decision, plan, or claim in one sentence.
+3. Apply the protocol and surface an objection, trade-off, and falsifiable claim.
+4. Run the upstream `evals/` suite for that protocol.
+5. Stop if the output has no evidence gate.
+
+## Hard rules
+
+- Do not copy the whole upstream repository into this repo.
+- Do not present a protocol as complete without its evals passing.
+- Do not replace the user's decision with a recommendation.
+- Every output must include an objection, trade-off, or falsifiable claim.
 
 ## Start here
 
