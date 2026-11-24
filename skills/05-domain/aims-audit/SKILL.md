@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/
 
 # Aims Audit
 
+## Brief info
+
+ISO 42001 AI readiness check. Use before a stage 1 or internal audit, or /compliance-os:aims-audit. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
