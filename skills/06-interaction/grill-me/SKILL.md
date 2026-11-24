@@ -7,7 +7,7 @@ inputs: one user decision, question budget
 outputs: one question at a time, then a decision record
 fails_when: questioning becomes interrogation, or the agent decides for the user
 verify: python scripts/check_skills.py skills/06-interaction/grill-me
-source: from the start.md (2026-11-23, category 6)
+source: from the start.md
 ---
 
 # Grill Me
@@ -36,6 +36,10 @@ Use when the user says "grill me", "challenge this decision", or presents a deci
 ## Why blocked
 
 This skill depends on Thylas' customizable persistent session state. Without it, the question history lives in the transcript and is lost across sessions. Enable only after Thylas can persist state for this skill.
+
+## Source notes
+
+From `from the start.md`, diary entry 2026-11-23, category 6. The diary names grill-me as a human–agent interaction skill made useful by Thylas' customizable persistent session state.
 
 ## Verify
 
