@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/abstracting-clin
 
 # Med Abstracting Clinical Documentation
 
+## Brief info
+
+Extracts codeable diagnoses and procedures from clinical notes with specificity capture. Use when abstracting medical records, identifying codeable conditions, or capturing documentation specificity. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
