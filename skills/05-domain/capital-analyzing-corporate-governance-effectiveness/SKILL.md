@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-co
 
 # Capital Analyzing Corporate Governance Effectiveness
 
+## Brief info
+
+Evaluates board composition, compensation alignment, and governance practices with proxy advisory and institutional investor standards. Use when analyzing governance, evaluating board effectiveness, or assessing shareholder alignment. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
