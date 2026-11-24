@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/business-growt
 
 # Support Ops
 
+## Brief info
+
+Use for any customer support operations question - SLA attainment and breaches (first response, resolution, business hours, weekends, tickets about to breach), how many agents to schedule per hour for a phone, chat or email queue and where the roster is short (Erlang C, service level, handle time, shrinkage, occupancy, backlog), or which ticket topics to deflect with help-center articles, automate with macros or fix as product bugs. Works from a helpdesk ticket export with stdlib scripts. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
