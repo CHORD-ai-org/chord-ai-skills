@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-annua
 
 # Med Conducting Annual Wellness Visits
 
+## Brief info
+
+Structures Medicare Annual Wellness Visit documentation with HRA, prevention plan, and advance care planning. Use when performing wellness visits, documenting AWVs, or creating personalized prevention plans. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
