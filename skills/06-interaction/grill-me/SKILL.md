@@ -12,6 +12,11 @@ source: from the start.md
 
 # Grill Me
 
+## Brief info
+
+Ask one question at a time to test a user decision without answering for the user. Input: one user decision, question budget. Output: one question at a time, then a decision record. Caveat: questioning becomes interrogation, or the agent decides for the user.
+
+
 Ask one question at a time. Do not answer for the user.
 
 ## Trigger
