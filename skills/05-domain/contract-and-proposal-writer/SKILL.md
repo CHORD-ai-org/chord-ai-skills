@@ -33,7 +33,7 @@ Use when the task matches this source: Use when drafting a freelance contract, p
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/contract-and-proposal-writer
+Field: business-growth. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/contract-and-proposal-writer
 
 ## Verify
 
