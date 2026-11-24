@@ -14,6 +14,12 @@ verify:
 source:
 ```
 
+Recommended body section after the title:
+
+```markdown
+## Brief info
+```
+
 Required body sections:
 
 ```markdown
