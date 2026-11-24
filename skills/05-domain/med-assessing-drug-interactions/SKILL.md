@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/assessing-drug-i
 
 # Med Assessing Drug Interactions
 
+## Brief info
+
+Identifies clinically significant drug-drug, drug-food, and drug-disease interactions with severity grading and management recommendations. Use when checking drug interactions, evaluating polypharmacy risks, or managing medication combinations. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
