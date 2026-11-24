@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-co
 
 # Capital Analyzing Commodity Derivative Structures
 
+## Brief info
+
+Evaluates commodity swaps, options, and exotic structures with seasonality, convenience yield, and storage cost analysis. Use when pricing commodity derivatives, analyzing energy structures, or evaluating commodity hedging. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
