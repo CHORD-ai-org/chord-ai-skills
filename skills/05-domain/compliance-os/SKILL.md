@@ -33,7 +33,7 @@ Use when the task matches this source: Use when running several compliance frame
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/compliance-os
+Field: compliance-os. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/compliance-os
 
 ## Verify
 
