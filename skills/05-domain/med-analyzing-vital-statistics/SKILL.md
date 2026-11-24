@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/analyzing-vital-
 
 # Med Analyzing Vital Statistics
 
+## Brief info
+
+Structures vital records analysis with birth, death, and demographic trend reporting. Use when analyzing vital statistics, interpreting mortality data, or reporting demographic trends. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
