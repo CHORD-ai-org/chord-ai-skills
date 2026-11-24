@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a U.S. ocean Bill of Lading (B/L) functioning as receipt, contract of carriage, and document of title under COGSA or Hague-Visby. Covers negotiable and straight B/Ls, cargo description, freight allocation, and core carriage clauses. Use when drafting or reviewing a bill of lading, master/house B/L, ocean shipment documentation, or title transfer. Trigger keywords: bill of lading, B/L, ocean carriage, COGSA, Hague-Visby, negotiable, straight, master bill, house bill.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a U.S. ocean Bill of Lading (B/L) functioning as receipt, contract of carriage, and document of title under COGSA or Hague-Visby. Covers negotiable and straight B/Ls, cargo description, freight allocation, and cor
+2. Start with the upstream step: Parties — shipper, consignee, notify party legal names, addresses, contacts
+3. Continue with: Booking & voyage — booking confirmation, vessel/voyage, ports, delivery terms
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/bill-of-lading
 
 ## Verify
 
