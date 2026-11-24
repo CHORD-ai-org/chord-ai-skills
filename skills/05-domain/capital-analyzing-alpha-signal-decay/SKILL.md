@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-al
 
 # Capital Analyzing Alpha Signal Decay
 
+## Brief info
+
+Evaluates signal half-life, turnover implications, and capacity constraints for systematic alpha factors. Use when analyzing signal persistence, evaluating factor decay, or estimating strategy capacity. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
