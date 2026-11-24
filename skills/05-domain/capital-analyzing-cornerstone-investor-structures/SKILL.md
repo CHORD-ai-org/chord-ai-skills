@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-co
 
 # Capital Analyzing Cornerstone Investor Structures
 
+## Brief info
+
+Evaluates cornerstone investment commitments with allocation guarantees, lock-up terms, and signaling value assessment. Use when structuring cornerstone tranches, analyzing anchor investors, or evaluating demand signals. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
