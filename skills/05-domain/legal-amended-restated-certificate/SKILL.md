@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/amended-restat
 
 # Legal Amended Restated Certificate
 
+## Brief info
+
+Drafts a Delaware Amended and Restated Certificate of Incorporation implementing VC term sheet economics and governance into DGCL-compliant charter provisions. Use when drafting or revising a Delaware A&R certificate, preferred stock charter terms, Series Seed/A/B financing charter, blank check preferred authority, or implementing cap structure from a term sheet or SPA. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
