@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-denta
 
 # Med Conducting Dental Examinations
 
+## Brief info
+
+Structures comprehensive dental examinations with periodontal charting, caries assessment, and oral cancer screening. Use when performing dental exams, documenting oral findings, or creating dental records. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
