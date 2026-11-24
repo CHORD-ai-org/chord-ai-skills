@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-funct
 
 # Med Conducting Functional Assessments
 
+## Brief info
+
+Structures functional capacity evaluation with standardized measures and activity limitation documentation. Use when assessing functional status, measuring mobility, or documenting activity levels. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
