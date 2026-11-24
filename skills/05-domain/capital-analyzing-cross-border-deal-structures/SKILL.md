@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cr
 
 # Capital Analyzing Cross Border Deal Structures
 
+## Brief info
+
+Evaluates cross-border transaction complexities including tax treaties, currency, regulatory approvals, and cultural factors. Use when structuring international deals, assessing cross-border risk, or navigating multi-jurisdiction closings. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
