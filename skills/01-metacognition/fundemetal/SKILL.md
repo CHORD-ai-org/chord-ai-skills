@@ -1,5 +1,6 @@
 ---
 name: fundemetal
+description: Index of 24 Fundemetal cognitive protocols for stress-testing decisions and plans.
 category: 01-metacognition
 status: referenced
 inputs: a decision, plan, or claim to stress-test
