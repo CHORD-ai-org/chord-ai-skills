@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a U.S. at-will employment offer letter with unambiguous at-will language, FLSA-compliant compensation terms, benefits disclaimers, and conditions precedent. Use when extending formal job offers, issuing written employment offers, or drafting offer letters for new hires in U.S. jurisdictions.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a U.S. at-will employment offer letter with unambiguous at-will language, FLSA-compliant compensation terms, benefits disclaimers, and conditions precedent. Use when extending formal job offers, issuing written em
+2. Start with the upstream step: Employer — legal entity name, address, authorized signatory name and title
+3. Continue with: Candidate — full legal name, mailing address
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/at-will-employment-offer-letter
 
 ## Verify
 
