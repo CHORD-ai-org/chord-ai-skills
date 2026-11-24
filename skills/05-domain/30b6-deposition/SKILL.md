@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Guides taking and defending Rule 30(b)(6) corporate representative depositions. Drafts topic lists with reasonable particularity, builds examination outlines for binding corporate admissions, analyzes noticed topics for objections, and prepares designees. Use when drafting 30(b)(6) notices, preparing corporate deposition topics, selecting or preparing designees, or defending corporate representative depositions.
+
+## Steps
+
+1. Confirm the task matches this source: Guides taking and defending Rule 30(b)(6) corporate representative depositions. Drafts topic lists with reasonable particularity, builds examination outlines for binding corporate admissions, analyzes noticed topics for 
+2. Start with the upstream step: Determine role: taking or defending
+3. Continue with: If taking → draft topic list (Part A), then build examination outline
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/30b6-deposition
 
 ## Verify
 
