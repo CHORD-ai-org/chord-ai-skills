@@ -12,6 +12,10 @@ source: URL or diary entry
 
 # Skill title
 
+## Brief info
+
+One or two sentences. State what the skill does, what it takes, what it returns, and when it fails.
+
 ## Trigger
 
 Use when:
