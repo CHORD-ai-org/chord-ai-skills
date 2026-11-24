@@ -6,6 +6,9 @@ A collection of Skills for CHORD AI ORG, built for complex tasks.
 Website: https://chord-ai-org.github.io/
 Categories from: [from the start.md](<from the start.md>) (diary entry, 2026-11-23)
 Research index: [research/SOURCES.md](research/SOURCES.md)
+Master plan: [PLAN.md](PLAN.md)
+Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+Expert-field candidates: [research/EXPERT_FIELDS.md](research/EXPERT_FIELDS.md)
 
 189 SKILL.md files so far. 180 are domain pointers; 9 are local or source pointers.
 
@@ -25,10 +28,29 @@ Research index: [research/SOURCES.md](research/SOURCES.md)
 ## Add a skill
 
 1. Create `<skill-id>/SKILL.md` under the matching category.
-2. Fill in 8 fields: `name`, `category`, `status`, `inputs`, `outputs`, `fails_when`, `verify`, `source`.
-3. Update the category README table and the count above.
+2. Fill in 9 fields: `name`, `description`, `category`, `status`, `inputs`, `outputs`, `fails_when`, `verify`, `source`.
+3. Keep four body sections: `## Trigger`, `## Steps`, `## Hard rules`, `## Verify`.
+4. Update the category README table and the count above.
 
-Allowed `status` values: `referenced` / `draft` / `ready` / `reused` / `blocked`.
+Allowed `status` values:
+
+| Status | Meaning |
+| --- | --- |
+| `referenced` | Pointer to an external source |
+| `draft` | Local spec, not used yet |
+| `ready` | Used once on a real task |
+| `reused` | Used in two or more tasks |
+| `blocked` | Dependency named in the body |
+
+## Release artifacts
+
+Generate CLI-compatible artifacts without changing the source tree:
+
+```bash
+python scripts/build_release_index.py
+```
+
+The command writes `releases/skills/<name>/SKILL.md` and `releases/index.json`. Blocked skills are skipped. `releases/` is gitignored.
 
 ## To confirm
 
