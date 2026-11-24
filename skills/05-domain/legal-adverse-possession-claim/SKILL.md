@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/adverse-posses
 
 # Legal Adverse Possession Claim
 
+## Brief info
+
+Drafts adverse possession complaints and quiet title pleadings. Structures jurisdictional foundations, legal property descriptions, and element-by-element proof of actual, open, continuous, exclusive, and hostile possession. Use when filing adverse possession claims, quiet title actions, or prescriptive ownership pleadings. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
