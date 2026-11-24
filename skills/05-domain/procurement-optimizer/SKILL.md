@@ -33,7 +33,7 @@ Use when the task matches this source: Cut spend on software and suppliers: SaaS
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/procurement-optimizer
+Field: business-operations. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/procurement-optimizer
 
 ## Verify
 
