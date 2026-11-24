@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-ca
 
 # Finance Analyzing Capital Allocation
 
+## Brief info
+
+Evaluates management capital allocation decisions across M&A, buybacks, dividends, and reinvestment. Use when assessing capital allocation, analyzing ROIC, or evaluating shareholder return strategies. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
