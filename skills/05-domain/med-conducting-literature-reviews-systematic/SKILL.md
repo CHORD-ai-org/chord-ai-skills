@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-liter
 
 # Med Conducting Literature Reviews Systematic
 
+## Brief info
+
+Performs systematic literature review following PRISMA guidelines with search strategy documentation. Use when conducting systematic reviews, documenting search strategies, or performing PRISMA analyses. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
