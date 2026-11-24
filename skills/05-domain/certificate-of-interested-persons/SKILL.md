@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a FRAP 26.1-compliant Certificate of Interested Persons identifying all parties, entities, and affiliates with financial or legal interests in a federal appeal. Adapts to circuit-specific local rules. Use when filing appeals, corporate disclosure statements, or conflict-of-interest certificates in U.S. Courts of Appeals.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a FRAP 26.1-compliant Certificate of Interested Persons identifying all parties, entities, and affiliates with financial or legal interests in a federal appeal. Adapts to circuit-specific local rules. Use when fil
+2. Start with the upstream step: Case caption — appellate case number, full party names as on the notice of appeal
+3. Continue with: Lower court filings — complaints, answers, corporate disclosure statements, settlement agreements
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/certificate-of-interested-persons
 
 ## Verify
 
