@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/conducting-disch
 
 # Med Conducting Discharge Planning Nursing
 
+## Brief info
+
+Coordinates nursing discharge planning with medication teaching, follow-up scheduling, and resource coordination. Use when planning discharge, coordinating post-discharge care, or documenting discharge teaching. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
