@@ -12,6 +12,11 @@ source: https://github.com/alirezarezvani/claude-skills/tree/main/business-growt
 
 # Customer Success Manager
 
+## Brief info
+
+Use when reviewing customer accounts for health, churn risk or expansion. Scores health with health_score_calculator.py, churn with churn_risk_analyzer.py and upsell with expansion_opportunity_scorer.py. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
