@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cu
 
 # Capital Analyzing Customer Cohort Economics
 
+## Brief info
+
+Deconstructs customer cohort behavior with retention curves, LTV progression, and vintage-over-vintage comparison analysis. Use when analyzing cohort data, assessing customer quality, or modeling lifetime value trajectories. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
