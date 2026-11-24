@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-cl
 
 # Capital Analyzing Claims Trading Dynamics
 
+## Brief info
+
+Evaluates claims trading market with trading levels, holder identification, and blocking position analysis. Use when analyzing claims markets, tracking distressed debt trading, or evaluating ad hoc group dynamics. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
