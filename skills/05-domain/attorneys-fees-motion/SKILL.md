@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts post-judgment motions for attorneys' fees using the lodestar method. Covers prevailing party analysis, rate justification, hours documentation, billing judgment, lodestar enhancements, and supporting declarations. Trigger when user needs a fee motion, fee petition, lodestar calculation, or post-trial fee application.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts post-judgment motions for attorneys' fees using the lodestar method. Covers prevailing party analysis, rate justification, hours documentation, billing judgment, lodestar enhancements, and supporting declarations.
+2. Start with the upstream step: Final judgment or order establishing prevailing party status
+3. Continue with: Fee-shifting authority — statute (e.g., 42 U.S.C. § 1988), contract, or common law basis
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/attorneys-fees-motion
 
 ## Verify
 
