@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a Motion for Bail Reduction for criminal defense pretrial proceedings. Argues current bail is excessive under the Eighth Amendment using defendant financial circumstances, community ties, and flight-risk factors adapted to jurisdictional bail standards. Use when seeking bail modification, bail reduction, pretrial release, or excessive bail challenges.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a Motion for Bail Reduction for criminal defense pretrial proceedings. Argues current bail is excessive under the Eighth Amendment using defendant financial circumstances, community ties, and flight-risk factors a
+2. Start with the upstream step: Case info — court, case number, charges, current bail amount, date set
+3. Continue with: Defendant profile — name, custody status, time served, residence, employment, income, family, medical conditions
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/bail-reduction-motion
 
 ## Verify
 
