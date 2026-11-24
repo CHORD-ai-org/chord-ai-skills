@@ -9,6 +9,7 @@ from pathlib import Path
 
 REQUIRED = [
     "name",
+    "description",
     "category",
     "status",
     "inputs",
