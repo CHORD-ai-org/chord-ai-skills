@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/capital/analyzing-ac
 
 # Capital Analyzing Activist Investor Vulnerabilities
 
+## Brief info
+
+Evaluates corporate vulnerability to shareholder activism with governance assessment, valuation gaps, and operational improvement opportunities. Use when assessing activist risk, identifying vulnerabilities, or preparing defensive analyses. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
