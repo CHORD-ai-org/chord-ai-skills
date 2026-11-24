@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Produces structured U.S. class action lawsuit summaries covering claims, class definition, Rule 23 analysis, procedural history, and outcomes. Use when summarizing class actions, class certification rulings, MDL proceedings, or settlement approvals for litigation evaluation, due diligence, or compliance monitoring.
+
+## Steps
+
+1. Confirm the task matches this source: Produces structured U.S. class action lawsuit summaries covering claims, class definition, Rule 23 analysis, procedural history, and outcomes. Use when summarizing class actions, class certification rulings, MDL proceedi
+2. Start with the upstream step: Operative complaint (and amendments).
+3. Continue with: Docket report with key dates and ECF numbers.
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/class-action-summary
 
 ## Verify
 
