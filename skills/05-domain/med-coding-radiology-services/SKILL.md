@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/coding-radiology
 
 # Med Coding Radiology Services
 
+## Brief info
+
+Assigns radiology CPT codes with professional/technical component and supervision level documentation. Use when coding imaging studies, applying 26/TC modifiers, or coding interventional procedures. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
