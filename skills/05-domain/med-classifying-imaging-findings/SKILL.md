@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/med/classifying-imag
 
 # Med Classifying Imaging Findings
 
+## Brief info
+
+Applies standardized classification systems (BI-RADS, LI-RADS, TI-RADS, Lung-RADS, PI-RADS) to imaging findings. Use when categorizing imaging findings, applying RADS classifications, or determining follow-up recommendations. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
