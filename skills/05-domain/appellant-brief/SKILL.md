@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts the appellant's opening brief challenging a lower court decision in federal or state appellate courts. Covers issue selection, standard of review framing, record citation, argument structure, and procedural compliance under FRAP 28/32 or state equivalents. Use when preparing an appellant's opening brief, selecting appellate issues, structuring appellate arguments, or demonstrating reversible error on appeal.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts the appellant's opening brief challenging a lower court decision in federal or state appellate courts. Covers issue selection, standard of review framing, record citation, argument structure, and procedural compli
+2. Start with the upstream step: Lower court decision — opinion, order, or judgment being appealed
+3. Continue with: Trial record — transcripts, exhibits, motions, and orders
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/appellant-brief
 
 ## Verify
 
