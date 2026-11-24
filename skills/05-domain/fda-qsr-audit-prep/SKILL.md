@@ -33,7 +33,7 @@ Use when the task matches this source: Use for /compliance-os:fda-qsr-audit-prep
 
 ## Source notes
 
-Field: domain. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/fda-qsr-audit-prep
+Field: compliance-os. Upstream: https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/fda-qsr-audit-prep
 
 ## Verify
 
