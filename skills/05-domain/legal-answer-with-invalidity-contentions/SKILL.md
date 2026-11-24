@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/answer-with-in
 
 # Legal Answer With Invalidity Contentions
 
+## Brief info
+
+Drafts a defendant's Answer with Invalidity Contentions responding to a U.S. patent infringement complaint. Covers FRCP 8(b) admissions/denials, affirmative defenses, and PLR 3-3 invalidity contentions with claim charts under 35 U.S.C. §§ 101, 102, 103, 112. Use when representing a defendant in the pleadings phase of federal patent litigation who must respond to an infringement suit and assert prior art, anticipation, obviousness, or § 112 defenses. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
