@@ -1,5 +1,6 @@
 ---
 name: grill-me
+description: Ask one question at a time to test a user decision without answering for the user.
 category: 06-interaction
 status: blocked
 inputs: one user decision, question budget
