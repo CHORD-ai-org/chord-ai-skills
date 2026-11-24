@@ -1,6 +1,6 @@
 ---
 name: legal-30b6-deposition
-description: ">-"
+description: "Guides taking and defending Rule 30(b)(6) corporate representative depositions. Drafts topic lists with reasonable particularity, builds examination outlines for binding corporate admissions, analyzes noticed topics for objections, and prepares designees. Use when drafting 30(b)(6) notices, preparing corporate deposition topics, selecting or preparing designees, or defending corporate representative depositions."
 category: 05-domain
 status: referenced
 inputs: a domain question, document, or decision to review
@@ -14,18 +14,18 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/30b6-depositio
 
 ## Brief info
 
->- Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+Guides taking and defending Rule 30(b)(6) corporate representative depositions. Drafts topic lists with reasonable particularity, builds examination outlines for binding corporate admissions, analyzes noticed topics for objections, and prepares designees. Use when drafting 30(b)(6) notices, preparing corporate deposition topics, selecting or preparing designees, or defending corporate representative depositions. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
 
 
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task matches this source: >-
+Use when the task matches this source: Guides taking and defending Rule 30(b)(6) corporate representative depositions. Drafts topic lists with reasonable particularity, builds examination outlines for binding corporate admissions, analyzes noticed topics for objections, and prepares designees. Use when drafting 30(b)(6) notices, preparing corporate deposition topics, selecting or preparing designees, or defending corporate representative depositions.
 
 ## Steps
 
-1. Confirm the task matches this source: >-
+1. Confirm the task matches this source: Guides taking and defending Rule 30(b)(6) corporate representative depositions. Drafts topic lists with reasonable particularity, builds examination outlines for binding corporate admissions, analyzes noticed topics for 
 2. Start with the upstream step: Determine role: taking or defending
 3. Continue with: If taking → draft topic list (Part A), then build examination outline
 4. Record the result with caveats and human expert review.
