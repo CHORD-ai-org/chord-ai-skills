@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/finance/analyzing-ec
 
 # Finance Analyzing Economic Indicators
 
+## Brief info
+
+Structures economic indicator analysis with leading, coincident, and lagging indicator interpretation. Use when analyzing economic data, interpreting economic releases, or tracking macro indicators. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
