@@ -16,13 +16,24 @@ Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
 
-Use when the task falls under Law and the upstream skill matches the request.
+Use when the task matches this source: Drafts a Certificate of Withdrawal for a foreign corporation surrendering its authority to transact business in a US state. Use when a foreign corporation is withdrawing its certificate of authority, ceasing in-state operations, or completing dissolution in a non-home jurisdiction.
+
+## Steps
+
+1. Confirm the task matches this source: Drafts a Certificate of Withdrawal for a foreign corporation surrendering its authority to transact business in a US state. Use when a foreign corporation is withdrawing its certificate of authority, ceasing in-state ope
+2. Start with the upstream step: Corporation details — legal name (exactly as on certificate of authority), home state/country, incorporation date
+3. Continue with: Certificate of authority — authorization date, certificate number (if applicable), any DBAs
+4. Record the result with caveats and human expert review.
 
 ## Hard rules
 
 - Advisory only. Require human expert review for legal, medical, finance, or capital decisions.
 - Do not copy upstream scripts or reference files into this repository.
 - State the upstream source when using the skill.
+
+## Source notes
+
+Field: legal. Upstream: https://github.com/casemark/skills/tree/main/skills/legal/certificate-of-withdrawal-foreign-corp
 
 ## Verify
 
