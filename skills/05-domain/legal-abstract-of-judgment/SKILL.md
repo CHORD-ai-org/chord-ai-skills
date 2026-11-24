@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/abstract-of-ju
 
 # Legal Abstract Of Judgment
 
+## Brief info
+
+Drafts a recordable Abstract of Judgment to create a judgment lien on a debtor's real property. Extracts party names, monetary components, and judgment details from case documents, then applies jurisdiction-specific formatting and certification requirements. Use post-judgment in commercial litigation when enforcing monetary awards, perfecting judgment liens, or preparing lien filings with the county recorder. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
