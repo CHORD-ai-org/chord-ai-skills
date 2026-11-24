@@ -12,6 +12,11 @@ source: https://github.com/casemark/skills/tree/main/skills/legal/appeal-summary
 
 # Legal Appeal Summary
 
+## Brief info
+
+Generates structured analytical summaries of appellate documents covering procedural posture, issues on appeal, standards of review, and strategic assessment. Use when onboarding to an appeal, preparing for oral argument, evaluating appellate risk, or summarizing the appellate record. Input: a domain question, document, or decision to review. Output: structured expert-field review with caveats. Caveat: output gives professional advice without human expert review.
+
+
 Pointer skill. Keep upstream files outside this repository.
 
 ## Trigger
